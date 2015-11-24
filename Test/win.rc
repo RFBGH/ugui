@@ -1,0 +1,220 @@
+WINSTART
+	ATTRSTART
+		ID: "1"
+		PID: "0"
+		TYPE: "0"
+		FLAG: "0"
+		RECT: "0","0","200","300"
+		BKCLR: "23456"
+		FONT: "0"
+		BRUSH: "0"
+	ATTREND
+
+	WINSTART
+		ATTRSTART
+			ID: "1"
+			PID: "0"
+			TYPE: "0"
+			FLAG: "0"
+			RECT: "0","0","200","300"
+			BKCLR: "23456"
+			FONT: "0"
+			BRUSH: "0"
+		ATTREND
+	WINEND
+
+	WINSTART
+		ATTRSTART
+			ID: "1"
+			PID: "0"
+			TYPE: "0"
+			FLAG: "0"
+			RECT: "0","0","200","300"
+			BKCLR: "23456"
+			FONT: "0"
+			BRUSH: "0"
+		ATTREND
+		
+		WINSTART
+			ATTRSTART
+				ID: "1"
+				PID: "0"
+				TYPE: "0"
+				FLAG: "0"
+				RECT: "0","0","200","300"
+				BKCLR: "23456"
+				FONT: "0"
+				BRUSH: "0"
+			ATTREND
+		WINEND
+		
+		WINSTART
+			ATTRSTART
+				ID: "1"
+				PID: "0"
+				TYPE: "0"
+				FLAG: "0"
+				RECT: "0","0","200","300"
+				BKCLR: "23456"
+				FONT: "0"
+				BRUSH: "0"
+			ATTREND
+			
+			WINSTART
+				ATTRSTART
+					ID: "1"
+					PID: "0"
+					TYPE: "0"
+					FLAG: "0"
+					RECT: "0","0","200","300"
+					BKCLR: "23456"
+					FONT: "0"
+					BRUSH: "0"
+				ATTREND
+			WINEND
+		WINEND
+	WINEND
+	
+	WINSTART
+		ATTRSTART
+			ID: "1"
+			PID: "0"
+			TYPE: "0"
+			FLAG: "0"
+			RECT: "0","0","200","300"
+			BKCLR: "23456"
+			FONT: "0"
+			BRUSH: "0"
+		ATTREND
+		
+		WINSTART
+			ATTRSTART
+				ID: "1"
+				PID: "0"
+				TYPE: "0"
+				FLAG: "0"
+				RECT: "0","0","200","300"
+				BKCLR: "23456"
+				FONT: "0"
+				BRUSH: "0"
+			ATTREND
+		WINEND
+	WINEND
+	
+	WINSTART
+		ATTRSTART
+			ID: "1"
+			PID: "0"
+			TYPE: "0"
+			FLAG: "0"
+			RECT: "0","0","200","300"
+			BKCLR: "23456"
+			FONT: "0"
+			BRUSH: "0"
+		ATTREND
+	WINEND
+WINEND
+
+WINSTART
+	ATTRSTART
+		ID: "1"
+		PID: "0"
+		TYPE: "0"
+		FLAG: "0"
+		RECT: "0","0","200","300"
+		BKCLR: "23456"
+		FONT: "0"
+		BRUSH: "0"
+	ATTREND
+
+	WINSTART
+		ATTRSTART
+			ID: "1"
+			PID: "0"
+			TYPE: "0"
+			FLAG: "0"
+			RECT: "0","0","200","300"
+			BKCLR: "23456"
+			FONT: "0"
+			BRUSH: "0"
+		ATTREND
+	WINEND
+	
+	WINSTART
+		ATTRSTART
+			ID: "1"
+			PID: "0"
+			TYPE: "0"
+			FLAG: "0"
+			RECT: "0","0","200","300"
+			BKCLR: "23456"
+			FONT: "0"
+			BRUSH: "0"
+		ATTREND
+		
+		WINSTART
+			ATTRSTART
+				ID: "1"
+				PID: "0"
+				TYPE: "0"
+				FLAG: "0"
+				RECT: "0","0","200","300"
+				BKCLR: "23456"
+				FONT: "0"
+				BRUSH: "0"
+			ATTREND
+		WINEND
+	WINEND
+	
+	WINSTART
+		ATTRSTART
+			ID: "1"
+			PID: "0"
+			TYPE: "0"
+			FLAG: "0"
+			RECT: "0","0","200","300"
+			BKCLR: "23456"
+			FONT: "0"
+			BRUSH: "0"
+		ATTREND
+		
+		WINSTART
+			ATTRSTART
+				ID: "1"
+				PID: "0"
+				TYPE: "0"
+				FLAG: "0"
+				RECT: "0","0","200","300"
+				BKCLR: "23456"
+				FONT: "0"
+				BRUSH: "0"
+			ATTREND
+		WINEND
+		
+		WINSTART
+			ATTRSTART
+				ID: "1"
+				PID: "0"
+				TYPE: "0"
+				FLAG: "0"
+				RECT: "0","0","200","300"
+				BKCLR: "23456"
+				FONT: "0"
+				BRUSH: "0"
+			ATTREND
+			
+			WINSTART
+				ATTRSTART
+					ID: "1"
+					PID: "0"
+					TYPE: "0"
+					FLAG: "0"
+					RECT: "0","0","200","300"
+					BKCLR: "23456"
+					FONT: "0"
+					BRUSH: "0"
+				ATTREND
+			WINEND
+		WINEND
+	WINEND
+WINEND

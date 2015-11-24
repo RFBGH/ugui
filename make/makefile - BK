@@ -1,0 +1,20 @@
+objects = main.o
+
+#CFLAGS += -I ./include
+#CFLAGS += -g
+CC = gcc
+target = main
+
+main: $(objects)
+	$(CC) -o $(target) $(objects) 
+
+main.o: ../main.c 
+	$(CC) -c ../main.c
+
+.PHONEY : clean 
+clean:
+	rm $(target).exe $(objects)
+	
+backup:
+	cp main.exe main.exe.bk
+ 

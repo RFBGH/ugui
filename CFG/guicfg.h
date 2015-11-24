@@ -1,0 +1,13 @@
+#ifndef __GUI_CFG_H__
+#define __GUI_CFG_H__
+
+#define LCD_SCREEN_WIDTH 320
+#define LCD_SCREEN_HEIGH 240
+
+#define SCREEN_WIDTH LCD_SCREEN_WIDTH
+#define SCREEN_HEIGH LCD_SCREEN_HEIGH
+
+#define CFG_SUPPORT_ALPHA 1
+
+#endif
+

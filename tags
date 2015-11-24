@@ -1,0 +1,718 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.7	//
+ASC8x16_HEIGH	.\GDI\TextOut.h	9;"	d	line:9
+ASC8x16_WIDTH	.\GDI\TextOut.h	8;"	d	line:8
+AddSonWindow	.\GUI\WinTree.c	/^INT AddSonWindow(PWindow pWinParent, PWindow pWinSon)$/;"	f	line:74	signature:(PWindow pWinParent, PWindow pWinSon)
+AppCalcDlg	.\AppTest\SimCalc.c	/^VOID AppCalcDlg(VOID)$/;"	f	line:185
+Append	.\Tool\SimString.c	/^STATIC INT Append(HANDLE handle, CHAR c)$/;"	f	line:52	signature:(HANDLE handle, CHAR c)
+BOOL	.\Comm\Type.h	65;"	d	line:65
+BUTTON_BRUSH_COLOR	.\Widget\Button.c	231;"	d	line:231	file:
+BUTTON_FONT_COLOR	.\Widget\Button.c	232;"	d	line:232	file:
+BUTTON_VALUE_SHOW_LEFTST	.\Widget\Button.c	41;"	d	line:41	file:
+BUTTON_VALUE_SHOW_LEFTST	.\Widget\CheckBox.c	60;"	d	line:60	file:
+BUTTON_VALUE_SHOW_TOPEST	.\Widget\Button.c	42;"	d	line:42	file:
+BUTTON_VALUE_SHOW_TOPEST	.\Widget\CheckBox.c	61;"	d	line:61	file:
+BYTE	.\Comm\Type.h	85;"	d	line:85
+CALC_ANALSE_CNT	.\AppTest\CalcAlgor.h	28;"	d	line:28
+CALC_BTN_ADD_ID	.\AppTest\SimCalc.c	37;"	d	line:37	file:
+CALC_BTN_BK_ID	.\AppTest\SimCalc.c	33;"	d	line:33	file:
+CALC_BTN_BRA1_ID	.\AppTest\SimCalc.c	42;"	d	line:42	file:
+CALC_BTN_BRA2_ID	.\AppTest\SimCalc.c	43;"	d	line:43	file:
+CALC_BTN_CE_ID	.\AppTest\SimCalc.c	34;"	d	line:34	file:
+CALC_BTN_C_ID	.\AppTest\SimCalc.c	35;"	d	line:35	file:
+CALC_BTN_DIV_ID	.\AppTest\SimCalc.c	40;"	d	line:40	file:
+CALC_BTN_EQL_ID	.\AppTest\SimCalc.c	41;"	d	line:41	file:
+CALC_BTN_MOD_ID	.\AppTest\SimCalc.c	45;"	d	line:45	file:
+CALC_BTN_MSG_ID	.\AppTest\SimCalc.c	48;"	d	line:48	file:
+CALC_BTN_MUL_ID	.\AppTest\SimCalc.c	39;"	d	line:39	file:
+CALC_BTN_NUM0_ID	.\AppTest\SimCalc.c	23;"	d	line:23	file:
+CALC_BTN_NUM1_ID	.\AppTest\SimCalc.c	24;"	d	line:24	file:
+CALC_BTN_NUM2_ID	.\AppTest\SimCalc.c	25;"	d	line:25	file:
+CALC_BTN_NUM3_ID	.\AppTest\SimCalc.c	26;"	d	line:26	file:
+CALC_BTN_NUM4_ID	.\AppTest\SimCalc.c	27;"	d	line:27	file:
+CALC_BTN_NUM5_ID	.\AppTest\SimCalc.c	28;"	d	line:28	file:
+CALC_BTN_NUM6_ID	.\AppTest\SimCalc.c	29;"	d	line:29	file:
+CALC_BTN_NUM7_ID	.\AppTest\SimCalc.c	30;"	d	line:30	file:
+CALC_BTN_NUM8_ID	.\AppTest\SimCalc.c	31;"	d	line:31	file:
+CALC_BTN_NUM9_ID	.\AppTest\SimCalc.c	32;"	d	line:32	file:
+CALC_BTN_PINT_ID	.\AppTest\SimCalc.c	44;"	d	line:44	file:
+CALC_BTN_PN_ID	.\AppTest\SimCalc.c	36;"	d	line:36	file:
+CALC_BTN_SUB_ID	.\AppTest\SimCalc.c	38;"	d	line:38	file:
+CALC_DLG_ID	.\AppTest\SimCalc.c	21;"	d	line:21	file:
+CALC_EV_PRINT_ID	.\AppTest\SimCalc.c	22;"	d	line:22	file:
+CALC_PARAM_OP_ADD	.\AppTest\CalcAlgor.h	20;"	d	line:20
+CALC_PARAM_OP_BRA1	.\AppTest\CalcAlgor.h	25;"	d	line:25
+CALC_PARAM_OP_BRA2	.\AppTest\CalcAlgor.h	26;"	d	line:26
+CALC_PARAM_OP_DIV	.\AppTest\CalcAlgor.h	23;"	d	line:23
+CALC_PARAM_OP_MOD	.\AppTest\CalcAlgor.h	24;"	d	line:24
+CALC_PARAM_OP_MUL	.\AppTest\CalcAlgor.h	22;"	d	line:22
+CALC_PARAM_OP_SUB	.\AppTest\CalcAlgor.h	21;"	d	line:21
+CBitmap	.\Tool\BmpTool.h	/^}CBitmap, *PBitmap;$/;"	t	line:12	typeref:struct:_Bitmap
+CBrush	.\GDI\Brush.h	/^}CBrush, *PBrush;$/;"	t	line:9	typeref:struct:_Brush
+CButton	.\Widget\Button.h	/^}CButton, *PButton;$/;"	t	line:32	typeref:struct:_Button
+CCalcParam	.\AppTest\CalcAlgor.h	/^}CCalcParam, *PCalcParam;$/;"	t	line:37	typeref:struct:_CalcParam
+CCalcParam	.\AppTest\SimCalc.c	/^}CCalcParam, *PCalcParam;$/;"	t	line:17	typeref:struct:_CalcParam	file:
+CCheckBox	.\Widget\CheckBox.h	/^}CCheckBox, *PCheckBox;$/;"	t	line:38	typeref:struct:_CheckBox
+CEditView	.\Widget\EditView.h	/^}CEditView, *PEditView;$/;"	t	line:48	typeref:struct:_EditView
+CFG_SUPPORT_ALPHA	.\CFG\guicfg.h	10;"	d	line:10
+CFont	.\GDI\Font.h	/^}CFont, *PFont;$/;"	t	line:9	typeref:struct:_Font
+CHAR	.\Comm\Type.h	25;"	d	line:25
+CHECK_BOX_CHECK_FRAME_RECT_BAGAIN	.\Widget\CheckBox.c	3;"	d	line:3	file:
+CHECK_BOX_CHECK_FRAME_RECT_HEIGH	.\Widget\CheckBox.c	5;"	d	line:5	file:
+CHECK_BOX_CHECK_FRAME_RECT_WIDTH	.\Widget\CheckBox.c	4;"	d	line:4	file:
+CHECK_BOX_CHECK_RECT_HEIGH	.\Widget\CheckBox.c	7;"	d	line:7	file:
+CHECK_BOX_CHECK_RECT_WIDTH	.\Widget\CheckBox.c	6;"	d	line:6	file:
+CHECK_BOX_TEXT_BAGIN	.\Widget\CheckBox.c	9;"	d	line:9	file:
+CList	.\Tool\List.h	/^}CList, *PList;$/;"	t	line:18	typeref:struct:_List
+CListNode	.\Tool\List.h	/^}CListNode, *PListNode;$/;"	t	line:11	typeref:struct:_ListNode
+CMsg	.\GUI\WinMsg.h	/^}CMsg, *PMsg;$/;"	t	line:14	typeref:struct:_Msg
+CONST	.\Comm\Type.h	9;"	d	line:9
+COnMsg	.\Msg\OnMsgProcList.h	/^}COnMsg, *POnMsg;$/;"	t	line:10	typeref:struct:_OnMsg
+COnMsgProc	.\GUI\OnWinMsgProcList.h	/^}COnMsgProc, *POnMsgProc;$/;"	t	line:20	typeref:struct:_OnMsgProc
+CPoint	.\GDI\GdiCom.h	/^}CPoint, *PPoint;$/;"	t	line:11	typeref:struct:_Point
+CRect	.\GDI\GdiCom.h	/^}CRect,*PRect;$/;"	t	line:19	typeref:struct:_Rect
+CString	.\Tool\SimString.h	/^}CString, *PString;$/;"	t	line:34	typeref:struct:_String
+CWindow	.\GUI\WinType.h	/^}CWindow, *PWindow;$/;"	t	line:92	typeref:struct:_Window
+CcalcBtn	.\AppTest\SimCalc.c	/^}CcalcBtn, *PCalcBtn;$/;"	t	line:12	typeref:struct:_CalcBtn	file:
+CharInStr	.\Tool\LoadWinRes.c	/^BOOL CharInStr(CHAR c, CHAR czStr[], INT iStrLen)$/;"	f	line:44	signature:(CHAR c, CHAR czStr[], INT iStrLen)
+CleanScreen	.\Adapt\Screen.c	/^VOID CleanScreen(RGBA rgbaScreen)$/;"	f	line:43	signature:(RGBA rgbaScreen)
+CleanString	.\Tool\SimString.c	/^STATIC VOID CleanString(HANDLE handle)$/;"	f	line:295	signature:(HANDLE handle)
+CopyBrush	.\GDI\Brush.c	/^VOID CopyBrush(PBrush pBrushDst, PBrush pBrushSrc)$/;"	f	line:3	signature:(PBrush pBrushDst, PBrush pBrushSrc)
+CopyFont	.\GDI\Font.c	/^VOID CopyFont(PFont pFontDst, PFont pFontSrc)$/;"	f	line:4	signature:(PFont pFontDst, PFont pFontSrc)
+CopyRect	.\GDI\GdiCom.c	/^VOID CopyRect(PRect pRectDst, PRect pRectSrc)$/;"	f	line:37	signature:(PRect pRectDst, PRect pRectSrc)
+CreateButton	.\Widget\Button.c	/^PButton CreateButton(PWindow pWinParent, INT iID, CHAR* pBtnTitl, UINT uFlag, INT iMsgID, PFWinOnUsrProc pfWinOnUsrProc)$/;"	f	line:171	signature:(PWindow pWinParent, INT iID, CHAR* pBtnTitl, UINT uFlag, INT iMsgID, PFWinOnUsrProc pfWinOnUsrProc)
+CreateCheckBox	.\Widget\CheckBox.c	/^PCheckBox CreateCheckBox(PWindow pParent, INT iID, CHAR* pBtnTitle, BOOL bCheck, UINT uFlag)$/;"	f	line:221	signature:(PWindow pParent, INT iID, CHAR* pBtnTitle, BOOL bCheck, UINT uFlag)
+CreateEditView	.\Widget\EditView.c	/^PEditView CreateEditView(PWindow pParent, INT iID, CHAR* pcVal, UINT uFlag)$/;"	f	line:249	signature:(PWindow pParent, INT iID, CHAR* pcVal, UINT uFlag)
+CreateOnMsgProc	.\GUI\OnWinMsgProcList.c	/^POnMsgProc CreateOnMsgProc(INT iOnMsgType, INT iMsgID, PVOID pOnMsgProc)$/;"	f	line:21	signature:(INT iOnMsgType, INT iMsgID, PVOID pOnMsgProc)
+CreateStringE	.\Tool\SimString.c	/^PString CreateStringE(CHAR* pVal, INT iSize)$/;"	f	line:382	signature:(CHAR* pVal, INT iSize)
+CreateWinMsg	.\GUI\WinMsg.c	/^PMsg CreateWinMsg(INT iMsgID, UINT uMsg, PVOID pMsg, HANDLE hWin)$/;"	f	line:21	signature:(INT iMsgID, UINT uMsg, PVOID pMsg, HANDLE hWin)
+CreateWindow	.\GUI\WinTree.c	/^PWindow CreateWindow(UINT uFlag, INT iID)$/;"	f	line:25	signature:(UINT uFlag, INT iID)
+CreateWindowE	.\GUI\Window.c	/^PWindow CreateWindowE(UINT uFlag, PWindow pParent, INT iID)$/;"	f	line:98	signature:(UINT uFlag, PWindow pParent, INT iID)
+DRAW_BMP_ADAPT_FILL	.\GDI\DrawBmp.h	9;"	d	line:9
+DRAW_BMP_REPEAT_CP	.\GDI\DrawBmp.h	10;"	d	line:10
+DRAW_BMP_SOLID_CP	.\GDI\DrawBmp.h	8;"	d	line:8
+DWORD	.\Comm\Type.h	81;"	d	line:81
+DeletList	.\Tool\List.c	/^INT DeletList(PList pList)$/;"	f	line:32	signature:(PList pList)
+DeleteButton	.\Widget\Button.c	/^VOID DeleteButton(PButton pButton)$/;"	f	line:221	signature:(PButton pButton)
+DeleteCheckBox	.\Widget\CheckBox.c	/^VOID DeleteCheckBox(PCheckBox pCkBox)$/;"	f	line:237	signature:(PCheckBox pCkBox)
+DeleteEditView	.\Widget\EditView.c	/^VOID DeleteEditView(PEditView pEdit)$/;"	f	line:329	signature:(PEditView pEdit)
+DeleteOnMsgProc	.\GUI\OnWinMsgProcList.c	/^VOID DeleteOnMsgProc(POnMsgProc pOnMsgProc)$/;"	f	line:37	signature:(POnMsgProc pOnMsgProc)
+DeleteString	.\Tool\SimString.c	/^VOID DeleteString(PString pString)$/;"	f	line:429	signature:(PString pString)
+DeleteWindow	.\GUI\WinTree.c	/^INT DeleteWindow(PWindow pWin)$/;"	f	line:262	signature:(PWindow pWin)
+DestroyWinMsg	.\GUI\WinMsg.c	/^VOID DestroyWinMsg(PMsg pMsg)$/;"	f	line:49	signature:(PMsg pMsg)
+DragWinsToXY	.\GUI\WinBase.c	/^VOID DragWinsToXY(PWindow pWin, INT x, INT y)$/;"	f	line:166	signature:(PWindow pWin, INT x, INT y)
+DragWinsToXYFlow	.\GUI\WinBase.c	/^STATIC INT DragWinsToXYFlow(PWindow pWin)$/;"	f	line:159	signature:(PWindow pWin)
+DrawBmp	.\GDI\DrawBmp.c	/^VOID DrawBmp(PRect pDstRect, PRect pSrcRect, PBitmap pBmp, INT iType)$/;"	f	line:166	signature:(PRect pDstRect, PRect pSrcRect, PBitmap pBmp, INT iType)
+DrawBmp_ADAPT_FILL	.\GDI\DrawBmp.c	/^STATIC VOID DrawBmp_ADAPT_FILL(PRect pDstRect, PRect pSrcRect, PBitmap pBmp)$/;"	f	line:30	signature:(PRect pDstRect, PRect pSrcRect, PBitmap pBmp)
+DrawBmp_REPEAT_CP	.\GDI\DrawBmp.c	/^STATIC VOID DrawBmp_REPEAT_CP(PRect pDstRect, PRect pSrcRect, PBitmap pBmp)$/;"	f	line:148	signature:(PRect pDstRect, PRect pSrcRect, PBitmap pBmp)
+DrawBmp_SOLID_CP	.\GDI\DrawBmp.c	/^STATIC VOID DrawBmp_SOLID_CP(PRect pDstRect, PRect pSrcRect, PBitmap pBmp)$/;"	f	line:3	signature:(PRect pDstRect, PRect pSrcRect, PBitmap pBmp)
+DrawLine	.\GDI\DrawLine.c	/^VOID DrawLine(PPoint pStart, PPoint pEnd, RGBA rgba)$/;"	f	line:22	signature:(PPoint pStart, PPoint pEnd, RGBA rgba)
+DrawLineRectBuffer	.\GDI\DrawLine.c	/^VOID DrawLineRectBuffer(RGBA* pBuffer, PRect pBufRect, PPoint pStart, PPoint pEnd, RGBA rgba)$/;"	f	line:184	signature:(RGBA* pBuffer, PRect pBufRect, PPoint pStart, PPoint pEnd, RGBA rgba)
+DrawOval	.\GDI\DrawOval.c	/^VOID DrawOval(PRect rect, RGBA rgba)$/;"	f	line:3	signature:(PRect rect, RGBA rgba)
+DrawOvalRectBuffer	.\GDI\DrawOval.c	/^VOID DrawOvalRectBuffer(RGBA* pBuffer, PRect pBufRect, PRect rect, RGBA rgba)$/;"	f	line:9	signature:(RGBA* pBuffer, PRect pBufRect, PRect rect, RGBA rgba)
+DrawRect	.\GDI\DrawRect.c	/^VOID DrawRect(PRect pRect, RGBA rgba)$/;"	f	line:64	signature:(PRect pRect, RGBA rgba)
+DrawRectRectBuffer	.\GDI\DrawRect.c	/^VOID DrawRectRectBuffer(RGBA* pBuffer, PRect pBufRect, PRect pRect, RGBA rgba)$/;"	f	line:236	signature:(RGBA* pBuffer, PRect pBufRect, PRect pRect, RGBA rgba)
+DrawRoundRect	.\GDI\DrawRect.c	/^VOID DrawRoundRect(PRect pRect, RGBA rgba)$/;"	f	line:116	signature:(PRect pRect, RGBA rgba)
+EDIT_VIEW_BRUSH_COLOR	.\Widget\EditView.c	290;"	d	line:290	file:
+EDIT_VIEW_FONT_COLOR	.\Widget\EditView.c	291;"	d	line:291	file:
+EDIT_VIEW_KEEPRIGHT	.\Widget\EditView.h	57;"	d	line:57
+EDIT_VIEW_MULTI_LINE	.\Widget\EditView.h	56;"	d	line:56
+FALSE	.\Comm\Type.h	73;"	d	line:73
+FillRect	.\GDI\DrawRect.c	/^VOID FillRect(PRect pRect, RGBA rgba)$/;"	f	line:21	signature:(PRect pRect, RGBA rgba)
+FillRectRectBuffer	.\GDI\DrawRect.c	/^VOID FillRectRectBuffer(RGBA* pBuffer, PRect pBufRect, PRect pRect, RGBA rgba)$/;"	f	line:218	signature:(RGBA* pBuffer, PRect pBufRect, PRect pRect, RGBA rgba)
+FillRoundRect	.\GDI\DrawRect.c	/^VOID FillRoundRect(PRect pRect, RGBA rgba)$/;"	f	line:172	signature:(PRect pRect, RGBA rgba)
+FilterColor	.\Adapt\Color.c	/^RGBA FilterColor(RGBA start, RGBA end, INT iFilter)$/;"	f	line:4	signature:(RGBA start, RGBA end, INT iFilter)
+FindItemById	.\GUI\Window.c	/^VOID* FindItemById(HANDLE hWin, INT iID)$/;"	f	line:559	signature:(HANDLE hWin, INT iID)
+FindList	.\Tool\List.c	/^INT FindList(PList pList, PVOID pData)$/;"	f	line:201	signature:(PList pList, PVOID pData)
+FindWindowByID	.\GUI\WinTree.c	/^PWindow FindWindowByID(INT iID)$/;"	f	line:150	signature:(INT iID)
+FlowList	.\Tool\List.c	/^INT FlowList(PList pList, PFunFlow pFunFlow)$/;"	f	line:76	signature:(PList pList, PFunFlow pFunFlow)
+FlowWindow0	.\GUI\WinTree.c	/^INT FlowWindow0(PWindow pWin, PFWindowFlow pfWindowFlow)$/;"	f	line:295	signature:(PWindow pWin, PFWindowFlow pfWindowFlow)
+FlowWindow1	.\GUI\WinTree.c	/^INT FlowWindow1(PWindow pWin, PFWindowFlow pfWindowFlow)$/;"	f	line:347	signature:(PWindow pWin, PFWindowFlow pfWindowFlow)
+FlowWindow11	.\GUI\WinTree.c	/^INT FlowWindow11(PWindow pWin, PFWindowFlow pfWindowFlow)$/;"	f	line:380	signature:(PWindow pWin, PFWindowFlow pfWindowFlow)
+FlowWindow2	.\GUI\WinTree.c	/^INT FlowWindow2(PWindow pWin, PFWindowFlow pfWindowFlow)$/;"	f	line:414	signature:(PWindow pWin, PFWindowFlow pfWindowFlow)
+FormatA	.\Adapt\Color.h	11;"	d	line:11
+FormatA	.\Adapt\Color_BK.h	11;"	d	line:11
+FormatB	.\Adapt\Color.h	10;"	d	line:10
+FormatB	.\Adapt\Color_BK.h	10;"	d	line:10
+FormatG	.\Adapt\Color.h	9;"	d	line:9
+FormatG	.\Adapt\Color_BK.h	9;"	d	line:9
+FormatR	.\Adapt\Color.h	8;"	d	line:8
+FormatR	.\Adapt\Color_BK.h	8;"	d	line:8
+Free	.\Tool\Malloc.c	/^VOID Free(VOID* p)$/;"	f	line:166	signature:(VOID* p)
+GenCharRnd	.\Tool\RndGen.c	/^VOID GenCharRnd(UCHAR* pRndBuf, INT iLen)$/;"	f	line:38	signature:(UCHAR* pRndBuf, INT iLen)
+GenIntRnd	.\Tool\RndGen.c	/^INT GenIntRnd(INT iMin, INT iMax)$/;"	f	line:48	signature:(INT iMin, INT iMax)
+GenUIntRnd	.\Tool\RndGen.c	/^UINT GenUIntRnd(INT iMax)$/;"	f	line:10	signature:(INT iMax)
+GetA	.\Adapt\Color.h	21;"	d	line:21
+GetA	.\Adapt\Color_BK.h	25;"	d	line:25
+GetB	.\Adapt\Color.h	20;"	d	line:20
+GetB	.\Adapt\Color_BK.h	24;"	d	line:24
+GetChar	.\Tool\SimString.c	/^STATIC INT GetChar(HANDLE handle, INT iIndex)$/;"	f	line:99	signature:(HANDLE handle, INT iIndex)
+GetFirstWinMsg	.\GUI\WinMsg.c	/^PMsg GetFirstWinMsg(VOID)$/;"	f	line:137
+GetG	.\Adapt\Color.h	19;"	d	line:19
+GetG	.\Adapt\Color_BK.h	23;"	d	line:23
+GetListData	.\Tool\List.c	/^PVOID GetListData(PList pList, INT iFind)$/;"	f	line:229	signature:(PList pList, INT iFind)
+GetNextAvaliChar	.\Tool\LoadWinRes.c	/^CHAR GetNextAvaliChar(FILE* pFile, CHAR czUnavail[], INT iUnavailLen)$/;"	f	line:57	signature:(FILE* pFile, CHAR czUnavail[], INT iUnavailLen)
+GetPixel	.\Adapt\Screen.c	/^RGBA GetPixel(INT x, INT y)$/;"	f	line:189	signature:(INT x, INT y)
+GetR	.\Adapt\Color.h	18;"	d	line:18
+GetR	.\Adapt\Color_BK.h	22;"	d	line:22
+GetResult	.\AppTest\CalcAlgor.c	/^INT GetResult(PCalcParam pCalcParam)$/;"	f	line:248	signature:(PCalcParam pCalcParam)
+GetStringUntil	.\Tool\LoadWinRes.c	/^INT GetStringUntil(FILE* pFile, CHAR czGet[], CHAR czUntil[], INT iUntilLen)$/;"	f	line:78	signature:(FILE* pFile, CHAR czGet[], CHAR czUntil[], INT iUntilLen)
+H2P	.\Comm\Type.h	90;"	d	line:90
+HANDLE	.\Comm\Type.h	88;"	d	line:88
+HeapCleanUp	.\Tool\Malloc.c	/^VOID HeapCleanUp(VOID)$/;"	f	line:112
+INIT_HEAP_DEFAULT	.\Tool\Malloc.h	16;"	d	line:16
+INIT_HEAP_FORCE	.\Tool\Malloc.h	15;"	d	line:15
+INT	.\Comm\Type.h	17;"	d	line:17
+InitButton	.\Widget\Button.c	/^INT InitButton(PButton pBtn, PWindow pWinParent, INT iID, CHAR* pBtnTitl,UINT uFlag, INT iMsgID, PFWinOnUsrProc pfWinOnUsrProc)$/;"	f	line:234	signature:(PButton pBtn, PWindow pWinParent, INT iID, CHAR* pBtnTitl,UINT uFlag, INT iMsgID, PFWinOnUsrProc pfWinOnUsrProc)
+InitCalcParam	.\AppTest\CalcAlgor.c	/^VOID InitCalcParam(PCalcParam pCalcParam)$/;"	f	line:5	signature:(PCalcParam pCalcParam)
+InitCheckBox	.\Widget\CheckBox.c	/^INT InitCheckBox(PCheckBox pCkBox, PWindow pParent, INT iID, CHAR* pBtnTitle, BOOL bCheck, UINT uFlag)$/;"	f	line:245	signature:(PCheckBox pCkBox, PWindow pParent, INT iID, CHAR* pBtnTitle, BOOL bCheck, UINT uFlag)
+InitEditView	.\Widget\EditView.c	/^INT InitEditView(PEditView pEdit, PWindow pParent, INT iID, CHAR* pcVal, UINT uFlag)$/;"	f	line:293	signature:(PEditView pEdit, PWindow pParent, INT iID, CHAR* pcVal, UINT uFlag)
+InitGUI	.\GUI\Window.c	/^VOID InitGUI(VOID)$/;"	f	line:636
+InitHeapPool	.\Tool\Malloc.c	/^VOID InitHeapPool(INT iType)$/;"	f	line:71	signature:(INT iType)
+InitList	.\Tool\List.c	/^INT InitList(PList pList)$/;"	f	line:5	signature:(PList pList)
+InitScreen	.\Adapt\Screen.c	/^VOID InitScreen(VOID)$/;"	f	line:28
+InitStringE	.\Tool\SimString.c	/^INT InitStringE(PString pString, CHAR* pVal, INT iSize)$/;"	f	line:330	signature:(PString pString, CHAR* pVal, INT iSize)
+InitWindow	.\GUI\Window.c	/^INT InitWindow(HANDLE hWin, HANDLE hWinParent, INT iID, INT iWinType, UINT uWinFlag)$/;"	f	line:404	signature:(HANDLE hWin, HANDLE hWinParent, INT iID, INT iWinType, UINT uWinFlag)
+InitWindowE	.\GUI\Window.c	/^INT InitWindowE(PWindow pWin, PWindow pParent, INT iID)$/;"	f	line:167	signature:(PWindow pWin, PWindow pParent, INT iID)
+InitWindowTree	.\GUI\WinTree.c	/^INT InitWindowTree(PWindow pWin, INT iID)$/;"	f	line:50	signature:(PWindow pWin, INT iID)
+Insert	.\Tool\SimString.c	/^STATIC INT Insert(HANDLE handle, INT iIndex, CHAR c)$/;"	f	line:118	signature:(HANDLE handle, INT iIndex, CHAR c)
+InsertList	.\Tool\List.c	/^INT InsertList(PList pList, INT iFind, PVOID pData)$/;"	f	line:144	signature:(PList pList, INT iFind, PVOID pData)
+InsertString	.\Tool\SimString.c	/^STATIC INT InsertString(HANDLE handle, INT iIndex, CHAR* pc)$/;"	f	line:207	signature:(HANDLE handle, INT iIndex, CHAR* pc)
+IsCheck	.\Widget\CheckBox.c	/^STATIC BOOL IsCheck(HANDLE handle)$/;"	f	line:208	signature:(HANDLE handle)
+LCD_SCREEN_HEIGH	.\CFG\guicfg.h	5;"	d	line:5
+LCD_SCREEN_WIDTH	.\CFG\guicfg.h	4;"	d	line:4
+LoadWinSys	.\Tool\LoadWinRes.c	/^INT LoadWinSys(CHAR* pResFile)$/;"	f	line:206	signature:(CHAR* pResFile)
+LocatWinByXY	.\GUI\WinBase.c	/^PWindow LocatWinByXY(PPoint pPoint)$/;"	f	line:126	signature:(PPoint pPoint)
+Log	.\Tool\Log.c	/^VOID Log(CHAR* pFormat, ...)$/;"	f	line:7	signature:(CHAR* pFormat, ...)
+MAX	.\Tool\smath.c	/^INT MAX(INT x, INT y)$/;"	f	line:4	signature:(INT x, INT y)
+MAX_COLOR_FILTER	.\Adapt\Color.h	32;"	d	line:32
+MAX_HEAP_SIZE	.\Tool\Malloc.c	16;"	d	line:16	file:
+MAX_WINDOW_SIZE	.\GUI\WinTree.c	13;"	d	line:13	file:
+MIN	.\Tool\smath.c	/^INT MIN(INT x, INT y)$/;"	f	line:13	signature:(INT x, INT y)
+MSG_KEY_VAL_BACKSPACE	.\GUI\Key.h	4;"	d	line:4
+MSG_KEY_VAL_CANCEL	.\GUI\Key.h	6;"	d	line:6
+MSG_KEY_VAL_CHAR_END	.\GUI\Key.h	14;"	d	line:14
+MSG_KEY_VAL_CHAR_START	.\GUI\Key.h	13;"	d	line:13
+MSG_KEY_VAL_CLAEN	.\GUI\Key.h	7;"	d	line:7
+MSG_KEY_VAL_DOWN	.\GUI\Key.h	11;"	d	line:11
+MSG_KEY_VAL_ENTER	.\GUI\Key.h	5;"	d	line:5
+MSG_KEY_VAL_LEFT	.\GUI\Key.h	8;"	d	line:8
+MSG_KEY_VAL_RIGHT	.\GUI\Key.h	9;"	d	line:9
+MSG_KEY_VAL_UP	.\GUI\Key.h	10;"	d	line:10
+Malloc	.\Tool\Malloc.c	/^VOID* Malloc(UINT uSize)$/;"	f	line:221	signature:(UINT uSize)
+MaxFullPrintAsc8x16	.\GDI\TextOut.c	/^INT MaxFullPrintAsc8x16(PRect pRect, CHAR* pcStr, INT iCurEdit, UINT* r_uXY)$/;"	f	line:362	signature:(PRect pRect, CHAR* pcStr, INT iCurEdit, UINT* r_uXY)
+MemBlk	.\Tool\Malloc.h	/^}MemBlk, *PMemBlk;$/;"	t	line:13	typeref:struct:_MemoryBlock
+MemCmp	.\Tool\Mem.c	/^INT MemCmp(PVOID pDst, PVOID pSrc, INT iSize)$/;"	f	line:42	signature:(PVOID pDst, PVOID pSrc, INT iSize)
+MemCpy	.\Tool\Mem.c	/^VOID MemCpy(PVOID pDst, PVOID pSrc, INT iSize)$/;"	f	line:20	signature:(PVOID pDst, PVOID pSrc, INT iSize)
+MemSet	.\Tool\Mem.c	/^VOID MemSet(PVOID pDst, INT iVal, INT iSize)$/;"	f	line:3	signature:(PVOID pDst, INT iVal, INT iSize)
+NULL	.\Comm\Type.h	61;"	d	line:61
+OnCalcBtn	.\AppTest\SimCalc.c	/^VOID OnCalcBtn(PWindow pWin, UINT uMsg, PVOID pMsg)$/;"	f	line:50	signature:(PWindow pWin, UINT uMsg, PVOID pMsg)
+OnListFlow	.\Test\Test.c	/^INT OnListFlow(PVOID pData)$/;"	f	line:259	signature:(PVOID pData)
+P2H	.\Comm\Type.h	91;"	d	line:91
+PARSE_STARE_END	.\Tool\LoadWinRes.c	108;"	d	line:108	file:
+PARSE_STATE_ATTR_BRUSH	.\Tool\LoadWinRes.c	118;"	d	line:118	file:
+PARSE_STATE_ATTR_FLAG	.\Tool\LoadWinRes.c	115;"	d	line:115	file:
+PARSE_STATE_ATTR_FONT	.\Tool\LoadWinRes.c	117;"	d	line:117	file:
+PARSE_STATE_ATTR_ID	.\Tool\LoadWinRes.c	112;"	d	line:112	file:
+PARSE_STATE_ATTR_PID	.\Tool\LoadWinRes.c	113;"	d	line:113	file:
+PARSE_STATE_ATTR_RECT	.\Tool\LoadWinRes.c	116;"	d	line:116	file:
+PARSE_STATE_ATTR_TYPE	.\Tool\LoadWinRes.c	114;"	d	line:114	file:
+PARSE_STATE_LABEL	.\Tool\LoadWinRes.c	107;"	d	line:107	file:
+PARSE_STATE_START	.\Tool\LoadWinRes.c	105;"	d	line:105	file:
+PARSE_STATE_STRING	.\Tool\LoadWinRes.c	106;"	d	line:106	file:
+PARSE_STATE_WINEND	.\Tool\LoadWinRes.c	111;"	d	line:111	file:
+PARSE_STATE_WINSTART	.\Tool\LoadWinRes.c	110;"	d	line:110	file:
+PBitmap	.\Tool\BmpTool.h	/^}CBitmap, *PBitmap;$/;"	t	line:12	typeref:struct:_Bitmap
+PBrush	.\GDI\Brush.h	/^}CBrush, *PBrush;$/;"	t	line:9	typeref:struct:_Brush
+PButton	.\Widget\Button.h	/^}CButton, *PButton;$/;"	t	line:32	typeref:struct:_Button
+PCHAR	.\Comm\Type.h	49;"	d	line:49
+PCalcBtn	.\AppTest\SimCalc.c	/^}CcalcBtn, *PCalcBtn;$/;"	t	line:12	typeref:struct:_CalcBtn	file:
+PCalcParam	.\AppTest\CalcAlgor.h	/^}CCalcParam, *PCalcParam;$/;"	t	line:37	typeref:struct:_CalcParam
+PCalcParam	.\AppTest\SimCalc.c	/^}CCalcParam, *PCalcParam;$/;"	t	line:17	typeref:struct:_CalcParam	file:
+PCheckBox	.\Widget\CheckBox.h	/^}CCheckBox, *PCheckBox;$/;"	t	line:38	typeref:struct:_CheckBox
+PEditView	.\Widget\EditView.h	/^}CEditView, *PEditView;$/;"	t	line:48	typeref:struct:_EditView
+PFAppend	.\Tool\SimString.h	/^typedef INT (*PFAppend)(HANDLE handle, CHAR c);$/;"	t	line:6
+PFCleanString	.\Tool\SimString.h	/^typedef VOID (*PFCleanString)(HANDLE handle);$/;"	t	line:15
+PFFindItemById	.\GUI\WinType.h	/^typedef VOID* (*PFFindItemById)(HANDLE hWin, INT iID);$/;"	t	line:22
+PFGetChar	.\Tool\SimString.h	/^typedef INT (*PFGetChar) (HANDLE handle, INT iIndex);$/;"	t	line:7
+PFInitWindow	.\GUI\WinType.h	/^typedef INT  (*PFInitWindow)(HANDLE hWin, HANDLE hWinParent, INT iID, INT iWinType, UINT uWinFlag);$/;"	t	line:17
+PFInsert	.\Tool\SimString.h	/^typedef INT (*PFInsert)(HANDLE handle, INT iIndex, CHAR c);$/;"	t	line:8
+PFInsertString	.\Tool\SimString.h	/^typedef INT (*PFInsertString)(HANDLE handle, INT iIndex, CHAR* pc);$/;"	t	line:12
+PFIsCheck	.\Widget\CheckBox.h	/^typedef BOOL (*PFIsCheck)(HANDLE handle);$/;"	t	line:8
+PFOnButton	.\GUI\OnWinMsgProcList.h	/^typedef VOID (*PFOnButton)(VOID);$/;"	t	line:13
+PFPostMessage	.\GUI\WinType.h	/^typedef INT  (*PFPostMessage)(HANDLE hWin, INT iMsgID, UINT uMsg, PVOID pMSg);$/;"	t	line:12
+PFPrintWindow	.\GUI\WinType.h	/^typedef VOID (*PFPrintWindow)(HANDLE hWin);$/;"	t	line:24
+PFRegisterOnMsgProc	.\GUI\WinType.h	/^typedef INT  (*PFRegisterOnMsgProc)(HANDLE hWin, INT iMsgType, INT iMsgID, PVOID pfOnMsgProc);$/;"	t	line:14
+PFRemove	.\Tool\SimString.h	/^typedef INT (*PFRemove)(HANDLE handle, INT iIndex);$/;"	t	line:9
+PFRemoveFromTo	.\Tool\SimString.h	/^typedef INT (*PFRemoveFromTo)(HANDLE handle, INT iIndex, INT iCnt);$/;"	t	line:13
+PFRemoveLast	.\Tool\SimString.h	/^typedef INT (*PFRemoveLast)(HANDLE handle);$/;"	t	line:10
+PFSendMessage	.\GUI\WinType.h	/^typedef INT  (*PFSendMessage)(HANDLE hWin, INT iMsgID, UINT uMsg, PVOID pMsg);$/;"	t	line:13
+PFSetCheck	.\Widget\CheckBox.h	/^typedef VOID (*PFSetCheck)(HANDLE handle, BOOL bCheck);$/;"	t	line:7
+PFSetCurEdit	.\Widget\EditView.h	/^typedef INT (*PFSetCurEdit)(HANDLE hWin, INT iCurEdit);$/;"	t	line:7
+PFSetSel	.\Widget\EditView.h	/^typedef INT (*PFSetSel)(HANDLE hWin, INT iSelStart, INT iSelLen);$/;"	t	line:9
+PFSetText	.\Tool\SimString.h	/^typedef INT (*PFSetText)(HANDLE handle, CHAR* pVal);$/;"	t	line:5
+PFSetText	.\Widget\EditView.h	/^typedef INT (*PFSetText)(HANDLE hWin, CHAR* pcVal);$/;"	t	line:5
+PFSetTitle	.\Widget\Button.h	/^typedef VOID (*PFSetTitle)(HANDLE hWin, CHAR* pcTitle);$/;"	t	line:6
+PFSetTitle	.\Widget\CheckBox.h	/^typedef VOID (*PFSetTitle)(HANDLE handle, CHAR* pcTitle);$/;"	t	line:6
+PFSetWinBrush	.\GUI\WinType.h	/^typedef INT  (*PFSetWinBrush)(HANDLE hWin, PBrush pBrushNew, PBrush pBrushOld);$/;"	t	line:20
+PFSetWinFont	.\GUI\WinType.h	/^typedef INT  (*PFSetWinFont)(HANDLE hWin, PFont pFontNew, PFont pFontOld);$/;"	t	line:19
+PFSetWinRect	.\GUI\WinType.h	/^typedef INT  (*PFSetWinRect)(HANDLE hWin, PRect pRectNew, PRect pRectOld);$/;"	t	line:18
+PFUnregisterOnMsgProc	.\GUI\WinType.h	/^typedef int  (*PFUnregisterOnMsgProc)(HANDLE hWin, INT iMsgType, INT iMsgID);$/;"	t	line:15
+PFWinDispatchMsg	.\GUI\WinType.h	/^typedef VOID (*PFWinDispatchMsg)(HANDLE hWin, INT iMsgID, UINT uMsg, PVOID pMsg);$/;"	t	line:11
+PFWinOnUsrProc	.\GUI\OnWinMsgProcList.h	/^typedef VOID (*PFWinOnUsrProc)(PWindow pWin, UINT uMsg, PVOID pMsg);$/;"	t	line:12
+PFWindowFlow	.\GUI\WinTree.c	/^typedef INT (*PFWindowFlow)(PWindow pWin);$/;"	t	line:293	file:
+PFWindowFlow	.\GUI\Window.h	/^typedef INT (*PFWindowFlow)(PWindow pWin);$/;"	t	line:34
+PFont	.\GDI\Font.h	/^}CFont, *PFont;$/;"	t	line:9	typeref:struct:_Font
+PFunFlow	.\Tool\List.h	/^typedef INT (*PFunFlow)(PVOID pData);$/;"	t	line:20
+PINT	.\Comm\Type.h	41;"	d	line:41
+PList	.\Tool\List.h	/^}CList, *PList;$/;"	t	line:18	typeref:struct:_List
+PListNode	.\Tool\List.h	/^}CListNode, *PListNode;$/;"	t	line:11	typeref:struct:_ListNode
+PMemBlk	.\Tool\Malloc.h	/^}MemBlk, *PMemBlk;$/;"	t	line:13	typeref:struct:_MemoryBlock
+PMsg	.\GUI\WinMsg.h	/^}CMsg, *PMsg;$/;"	t	line:14	typeref:struct:_Msg
+POnMsg	.\Msg\OnMsgProcList.h	/^}COnMsg, *POnMsg;$/;"	t	line:10	typeref:struct:_OnMsg
+POnMsgProc	.\GUI\OnWinMsgProcList.h	/^}COnMsgProc, *POnMsgProc;$/;"	t	line:20	typeref:struct:_OnMsgProc
+PPoint	.\GDI\GdiCom.h	/^}CPoint, *PPoint;$/;"	t	line:11	typeref:struct:_Point
+PRect	.\GDI\GdiCom.h	/^}CRect,*PRect;$/;"	t	line:19	typeref:struct:_Rect
+PString	.\Tool\SimString.h	/^}CString, *PString;$/;"	t	line:34	typeref:struct:_String
+PUCHAR	.\Comm\Type.h	45;"	d	line:45
+PUINT	.\Comm\Type.h	37;"	d	line:37
+PVOID	.\Comm\Type.h	57;"	d	line:57
+PWindow	.\GUI\WinType.h	/^}CWindow, *PWindow;$/;"	t	line:92	typeref:struct:_Window
+ParseResToWin	.\Tool\LoadWinRes.c	/^INT ParseResToWin(CHAR* pResFile)$/;"	f	line:120	signature:(CHAR* pResFile)
+PointInRect	.\GDI\GdiCom.c	/^BOOL PointInRect(PPoint pPoint, PRect pRect)$/;"	f	line:3	signature:(PPoint pPoint, PRect pRect)
+PopScreen	.\Adapt\Screen.c	/^VOID PopScreen(RGBA* pScreenBuf, PRect pRect)$/;"	f	line:106	signature:(RGBA* pScreenBuf, PRect pRect)
+PostMessage	.\GUI\Window.c	/^INT PostMessage(HANDLE hWin, INT iMsgID, UINT uMsg, PVOID pMsg)$/;"	f	line:337	signature:(HANDLE hWin, INT iMsgID, UINT uMsg, PVOID pMsg)
+PostWinMsg	.\GUI\WinMsg.c	/^INT PostWinMsg(PWindow pWin, INT iMsgID, UINT uMsg, PVOID pMsg)$/;"	f	line:67	signature:(PWindow pWin, INT iMsgID, UINT uMsg, PVOID pMsg)
+PrintAllMemBlk	.\Tool\Malloc.c	/^void PrintAllMemBlk()$/;"	f	line:43
+PrintMemBlk	.\Tool\Malloc.c	/^void PrintMemBlk(PMemBlk pMb)$/;"	f	line:25	signature:(PMemBlk pMb)
+PrintScreen	.\Adapt\Screen.c	/^VOID PrintScreen(VOID)$/;"	f	line:204
+PrintWindowBtn	.\Widget\Button.c	/^STATIC VOID PrintWindowBtn(HANDLE handle)$/;"	f	line:44	signature:(HANDLE handle)
+PrintWindowCkBtn	.\Widget\CheckBox.c	/^STATIC VOID PrintWindowCkBtn(HANDLE handle)$/;"	f	line:64	signature:(HANDLE handle)
+PrintWindowDef	.\GUI\Window.c	/^VOID PrintWindowDef(HANDLE hWin)$/;"	f	line:586	signature:(HANDLE hWin)
+PrintWindowEV	.\Widget\EditView.c	/^STATIC VOID PrintWindowEV(HANDLE handle)$/;"	f	line:85	signature:(HANDLE handle)
+PrintWindowFlow	.\GUI\Window.c	/^INT PrintWindowFlow(PWindow pWin)$/;"	f	line:642	signature:(PWindow pWin)
+PushData	.\AppTest\CalcAlgor.c	/^INT PushData(PCalcParam pCalcParam, INT iData)$/;"	f	line:15	signature:(PCalcParam pCalcParam, INT iData)
+PushList	.\Tool\List.c	/^INT PushList(PList pList, PVOID pData)$/;"	f	line:109	signature:(PList pList, PVOID pData)
+PushOp	.\AppTest\CalcAlgor.c	/^INT PushOp(PCalcParam pCalcParam, INT iOp)$/;"	f	line:97	signature:(PCalcParam pCalcParam, INT iOp)
+PushScreen	.\Adapt\Screen.c	/^VOID PushScreen(RGBA* pScreenBuf, PRect pRect)$/;"	f	line:58	signature:(RGBA* pScreenBuf, PRect pRect)
+RGB	.\Adapt\Color.h	24;"	d	line:24
+RGB	.\Adapt\Color_BK.h	29;"	d	line:29
+RGBA	.\Adapt\Color.h	6;"	d	line:6
+RGBA	.\Adapt\Color_BK.h	27;"	d	line:27
+RGBA	.\Adapt\Color_BK.h	6;"	d	line:6
+RGBA_BLACK	.\Adapt\Color.h	29;"	d	line:29
+RGBA_BLUE	.\Adapt\Color.h	28;"	d	line:28
+RGBA_GREEN	.\Adapt\Color.h	27;"	d	line:27
+RGBA_Get	.\Adapt\Color.h	23;"	d	line:23
+RGBA_RED	.\Adapt\Color.h	26;"	d	line:26
+RGBA_WHITE	.\Adapt\Color.h	30;"	d	line:30
+RectInRect	.\GDI\GdiCom.c	/^VOID RectInRect(PRect pRectParent, PRect pRectSon, PRect pRectDst)$/;"	f	line:18	signature:(PRect pRectParent, PRect pRectSon, PRect pRectDst)
+RegisterCheckBoxOnMsg	.\Widget\CheckBox.c	/^INT RegisterCheckBoxOnMsg(PCheckBox pCkBox, INT iMsgID, PFWinOnUsrProc pfWinOnUsrProc)$/;"	f	line:294	signature:(PCheckBox pCkBox, INT iMsgID, PFWinOnUsrProc pfWinOnUsrProc)
+RegisterOnMessage	.\GUI\Window.c	/^INT RegisterOnMessage(HANDLE hWin, INT iMsgType, INT iMsgID, PVOID pfOnMsgProc)$/;"	f	line:371	signature:(HANDLE hWin, INT iMsgType, INT iMsgID, PVOID pfOnMsgProc)
+RegisterOnMsgProc	.\GUI\OnWinMsgProcList.c	/^INT RegisterOnMsgProc(PWindow pWin, INT iMsgType, INT iMsgID, PVOID pfOnMsgProc)$/;"	f	line:42	signature:(PWindow pWin, INT iMsgType, INT iMsgID, PVOID pfOnMsgProc)
+Remove	.\Tool\SimString.c	/^STATIC INT Remove(HANDLE handle, INT iIndex)$/;"	f	line:181	signature:(HANDLE handle, INT iIndex)
+RemoveFromCnt	.\Tool\SimString.c	/^STATIC INT RemoveFromCnt(HANDLE handle, INT iIndex, INT iCnt)$/;"	f	line:264	signature:(HANDLE handle, INT iIndex, INT iCnt)
+RemoveLast	.\Tool\SimString.c	/^INT RemoveLast(HANDLE handle)$/;"	f	line:311	signature:(HANDLE handle)
+RemoveListByData	.\Tool\List.c	/^INT RemoveListByData(PList pList, PVOID pData)$/;"	f	line:263	signature:(PList pList, PVOID pData)
+ReorderWindow	.\GUI\WinTree.c	/^INT ReorderWindow(PWindow pWin)$/;"	f	line:205	signature:(PWindow pWin)
+SCREEN_HEIGH	.\CFG\guicfg.h	8;"	d	line:8
+SCREEN_WIDTH	.\CFG\guicfg.h	7;"	d	line:7
+SHORT	.\Comm\Type.h	33;"	d	line:33
+STATIC	.\Comm\Type.h	5;"	d	line:5
+STRING_BLOCK_SIZE	.\Tool\SimString.c	5;"	d	line:5	file:
+ScreenBuf	.\Adapt\Screen.c	/^RGBA ScreenBuf[SCREEN_WIDTH*SCREEN_HEIGH+8];$/;"	v	line:15
+SelWinBrush	.\GUI\Window.c	/^INT SelWinBrush(HANDLE hWin, PBrush pBrushNew, PBrush pBrushOld)$/;"	f	line:532	signature:(HANDLE hWin, PBrush pBrushNew, PBrush pBrushOld)
+SelWinFont	.\GUI\Window.c	/^INT SelWinFont(HANDLE hWin, PFont pFontNew, PFont pFontOld)$/;"	f	line:495	signature:(HANDLE hWin, PFont pFontNew, PFont pFontOld)
+SelWinRect	.\GUI\Window.c	/^INT SelWinRect(HANDLE hWin, PRect pRectNew, PRect pRectOld)$/;"	f	line:450	signature:(HANDLE hWin, PRect pRectNew, PRect pRectOld)
+SendMessage	.\GUI\Window.c	/^INT SendMessage(HANDLE hWin, INT iMsgID, UINT uMsg, PVOID pMsg)$/;"	f	line:354	signature:(HANDLE hWin, INT iMsgID, UINT uMsg, PVOID pMsg)
+SendWinMsg	.\GUI\WinMsg.c	/^INT SendWinMsg(PWindow pWin, INT iMsgID, UINT uMsg, PVOID pMsg)$/;"	f	line:106	signature:(PWindow pWin, INT iMsgID, UINT uMsg, PVOID pMsg)
+SetA	.\Adapt\Color.h	16;"	d	line:16
+SetA	.\Adapt\Color_BK.h	19;"	d	line:19
+SetB	.\Adapt\Color.h	15;"	d	line:15
+SetB	.\Adapt\Color_BK.h	17;"	d	line:17
+SetBmpAlpha	.\Tool\BmpTool.c	/^VOID SetBmpAlpha(PBitmap pBmp, INT iAlpha)$/;"	f	line:4	signature:(PBitmap pBmp, INT iAlpha)
+SetCheck	.\Widget\CheckBox.c	/^STATIC VOID SetCheck(HANDLE handle, BOOL bCheck)$/;"	f	line:187	signature:(HANDLE handle, BOOL bCheck)
+SetCurEdit	.\Widget\EditView.c	/^STATIC INT SetCurEdit(HANDLE handle, INT iCurEdit)$/;"	f	line:203	signature:(HANDLE handle, INT iCurEdit)
+SetCurSel	.\Widget\EditView.c	/^STATIC INT SetCurSel(HANDLE handle, INT iSelStart, INT iSelLen)$/;"	f	line:223	signature:(HANDLE handle, INT iSelStart, INT iSelLen)
+SetEditText	.\Widget\EditView.c	/^STATIC INT SetEditText(HANDLE handle, CHAR* pcVal)$/;"	f	line:190	signature:(HANDLE handle, CHAR* pcVal)
+SetG	.\Adapt\Color.h	14;"	d	line:14
+SetG	.\Adapt\Color_BK.h	15;"	d	line:15
+SetPixel	.\Adapt\Screen.c	/^VOID SetPixel(INT x, INT y, RGBA rgba)$/;"	f	line:151	signature:(INT x, INT y, RGBA rgba)
+SetR	.\Adapt\Color.h	13;"	d	line:13
+SetR	.\Adapt\Color_BK.h	13;"	d	line:13
+SetText	.\Tool\SimString.c	/^STATIC INT SetText(HANDLE handle, CHAR* pVal)$/;"	f	line:8	signature:(HANDLE handle, CHAR* pVal)
+SetTitle	.\Widget\Button.c	/^STATIC VOID SetTitle(HANDLE handle, CHAR* pcTitle)$/;"	f	line:135	signature:(HANDLE handle, CHAR* pcTitle)
+SetTitle	.\Widget\CheckBox.c	/^STATIC VOID SetTitle(HANDLE handle, CHAR* pcTitle)$/;"	f	line:166	signature:(HANDLE handle, CHAR* pcTitle)
+SetWinBKColor	.\GUI\WinBase.c	/^INT SetWinBKColor(PWindow pWin, RGBA rgba)$/;"	f	line:20	signature:(PWindow pWin, RGBA rgba)
+SetWinRect	.\GUI\WinBase.c	/^INT SetWinRect(PWindow pWin, PRect pRect)$/;"	f	line:40	signature:(PWindow pWin, PRect pRect)
+Strlen	.\Tool\Mem.c	/^INT Strlen(char* pc)$/;"	f	line:69	signature:(char* pc)
+TEXTOUT_FLAG_AUTO_NEW_LINE	.\GDI\TextOut.h	13;"	d	line:13
+TEXTOUT_FLAG_H_SCROLL	.\GDI\TextOut.h	15;"	d	line:15
+TEXTOUT_FLAG_NEW_LINE	.\GDI\TextOut.h	14;"	d	line:14
+TEXTOUT_FLAG_V_SCROLL	.\GDI\TextOut.h	16;"	d	line:16
+TEXT_OUT_IN_RECT_KEEP_RIGHT	.\GDI\TextOut.h	27;"	d	line:27
+TEXT_OUT_IN_RECT_MULTI_LINE	.\GDI\TextOut.h	26;"	d	line:26
+TRUE	.\Comm\Type.h	69;"	d	line:69
+Test1	.\Test\Test.c	/^void Test1(void)$/;"	f	line:4	signature:(void)
+Test2	.\Test\Test.c	/^void Test2(void)$/;"	f	line:34	signature:(void)
+Test3	.\Test\Test.c	/^void Test3(void)$/;"	f	line:137	signature:(void)
+Test4	.\Test\Test.c	/^void Test4(void)$/;"	f	line:151	signature:(void)
+Test5	.\Test\Test.c	/^void Test5(void)$/;"	f	line:265	signature:(void)
+Test6	.\Test\Test.c	/^void Test6(void)$/;"	f	line:331	signature:(void)
+TestBtn	.\Test\Test.c	/^void TestBtn(void)$/;"	f	line:552	signature:(void)
+TestBtn	.\main.c	/^void TestBtn(void)$/;"	f	line:76	signature:(void)
+TestString	.\Test\Test.c	/^void TestString(void)$/;"	f	line:647	signature:(void)
+TextOut	.\GDI\TextOut.h	24;"	d	line:24
+TextOut8X16	.\GDI\TextOut.c	/^VOID TextOut8X16(INT x, INT y, CONST CHAR* pTip, RGBA rgba)$/;"	f	line:58	signature:(INT x, INT y, CONST CHAR* pTip, RGBA rgba)
+TextOut8X16E	.\GDI\TextOut.c	/^VOID TextOut8X16E(INT x, INT y, PRect pRect, CONST CHAR* pTip, RGBA rgba, UINT uFlag)$/;"	f	line:139	signature:(INT x, INT y, PRect pRect, CONST CHAR* pTip, RGBA rgba, UINT uFlag)
+TextOut8X16ERectBuffer	.\GDI\TextOut.c	/^VOID TextOut8X16ERectBuffer(RGBA* pBuffer, INT x, INT y, PRect pBufRect, CONST CHAR* pTip, RGBA rgba, UINT uFlag)$/;"	f	line:224	signature:(RGBA* pBuffer, INT x, INT y, PRect pBufRect, CONST CHAR* pTip, RGBA rgba, UINT uFlag)
+TextOutAsc8X16	.\GDI\TextOut.c	/^VOID TextOutAsc8X16(INT x, INT y, CHAR c, RGBA rgba)$/;"	f	line:23	signature:(INT x, INT y, CHAR c, RGBA rgba)
+TextOutAsc8X16E	.\GDI\TextOut.c	/^VOID TextOutAsc8X16E(INT x, INT y, CHAR c, RGBA rgba, PRect pRect, UINT uFlag)$/;"	f	line:96	signature:(INT x, INT y, CHAR c, RGBA rgba, PRect pRect, UINT uFlag)
+TextOutAsc8X16RectBuffer	.\GDI\TextOut.c	/^VOID TextOutAsc8X16RectBuffer(RGBA* pBuffer, PRect pBufRect,INT x, INT y, CHAR c, RGBA rgba, UINT uFlag)$/;"	f	line:194	signature:(RGBA* pBuffer, PRect pBufRect,INT x, INT y, CHAR c, RGBA rgba, UINT uFlag)
+UCHAR	.\Comm\Type.h	21;"	d	line:21
+UINT	.\Comm\Type.h	13;"	d	line:13
+USHORT	.\Comm\Type.h	29;"	d	line:29
+UnregisterCheckBoxOnMsg	.\Widget\CheckBox.c	/^INT UnregisterCheckBoxOnMsg(PCheckBox pCkBox, INT iMsgID)$/;"	f	line:314	signature:(PCheckBox pCkBox, INT iMsgID)
+UnregisterOnMessage	.\GUI\Window.c	/^INT UnregisterOnMessage(HANDLE hWin, INT iMsgType, INT iMsgID)$/;"	f	line:387	signature:(HANDLE hWin, INT iMsgType, INT iMsgID)
+UnregisterOnMsgProc	.\GUI\OnWinMsgProcList.c	/^INT UnregisterOnMsgProc(PWindow pWin, INT iMsgType, INT iMsgID)$/;"	f	line:72	signature:(PWindow pWin, INT iMsgType, INT iMsgID)
+UpdateScreen	.\GUI\Window.c	/^VOID UpdateScreen(VOID)$/;"	f	line:710
+VOID	.\Comm\Type.h	53;"	d	line:53
+WINDOW_BRUSH_COLOR	.\GUI\Window.c	11;"	d	line:11	file:
+WINDOW_FONT_COLOR	.\GUI\Window.c	12;"	d	line:12	file:
+WINDOW_TYPE_BUTTON	.\GUI\WinType.h	7;"	d	line:7
+WINDOW_TYPE_CHECKBOX	.\GUI\WinType.h	9;"	d	line:9
+WINDOW_TYPE_EDITVIEW	.\GUI\WinType.h	8;"	d	line:8
+WINDOW_TYPE_WINDOW	.\GUI\WinType.h	6;"	d	line:6
+WIN_ERR_NONE	.\GUI\WinErr.h	4;"	d	line:4
+WIN_ERR_NULL_POINT	.\GUI\WinErr.h	5;"	d	line:5
+WIN_MSG_BUTTON	.\GUI\WinMsg.h	31;"	d	line:31
+WIN_MSG_ID_CLICK_SCREEN_DOWN	.\GUI\WinMsg.h	20;"	d	line:20
+WIN_MSG_ID_CLICK_SCREEN_UP	.\GUI\WinMsg.h	21;"	d	line:21
+WIN_MSG_ID_DRAG_SCREEN	.\GUI\WinMsg.h	22;"	d	line:22
+WIN_MSG_ID_REPAINT	.\GUI\WinMsg.h	24;"	d	line:24
+WIN_MSG_ID_USR	.\GUI\WinMsg.h	34;"	d	line:34
+WIN_MSG_KEY	.\GUI\WinMsg.h	32;"	d	line:32
+WIN_MSG_MAXMIZE_BUTTON	.\GUI\WinMsg.h	28;"	d	line:28
+WIN_MSG_MINIZE_BUTTON	.\GUI\WinMsg.h	29;"	d	line:29
+WIN_MSG_TYPE_BUTTON	.\GUI\OnWinMsgProcList.h	6;"	d	line:6
+WIN_MSG_TYPE_EDIT	.\GUI\OnWinMsgProcList.h	7;"	d	line:7
+WIN_MSG_TYPE_RADIO_BUTTON	.\GUI\OnWinMsgProcList.h	8;"	d	line:8
+WIN_MSG_TYPE_USER	.\GUI\OnWinMsgProcList.h	10;"	d	line:10
+WIN_RES_BKCLR_FLAG	.\Tool\LoadWinRes.c	11;"	d	line:11	file:
+WIN_RES_BRUSH_FLAG	.\Tool\LoadWinRes.c	14;"	d	line:14	file:
+WIN_RES_FLAG_ATTR_END	.\Tool\LoadWinRes.c	6;"	d	line:6	file:
+WIN_RES_FLAG_ATTR_START	.\Tool\LoadWinRes.c	5;"	d	line:5	file:
+WIN_RES_FLAG_FLAG	.\Tool\LoadWinRes.c	10;"	d	line:10	file:
+WIN_RES_FLAG_WINDOW_END	.\Tool\LoadWinRes.c	4;"	d	line:4	file:
+WIN_RES_FLAG_WINDOW_START	.\Tool\LoadWinRes.c	3;"	d	line:3	file:
+WIN_RES_FONT_FLAG	.\Tool\LoadWinRes.c	13;"	d	line:13	file:
+WIN_RES_ID_FLAG	.\Tool\LoadWinRes.c	7;"	d	line:7	file:
+WIN_RES_PID_FLAG	.\Tool\LoadWinRes.c	8;"	d	line:8	file:
+WIN_RES_RECT_FLAG	.\Tool\LoadWinRes.c	12;"	d	line:12	file:
+WIN_RES_TYPE_FLAG	.\Tool\LoadWinRes.c	9;"	d	line:9	file:
+WORD	.\Comm\Type.h	77;"	d	line:77
+WinDispatchMsgButton	.\Widget\Button.c	/^STATIC VOID WinDispatchMsgButton(HANDLE handle, INT iMsgID, UINT uMsg, PVOID pMsg)$/;"	f	line:7	signature:(HANDLE handle, INT iMsgID, UINT uMsg, PVOID pMsg)
+WinDispatchMsgCkBtn	.\Widget\CheckBox.c	/^STATIC VOID WinDispatchMsgCkBtn(HANDLE handle, INT iMsgID, UINT uMsg, PVOID pMsg)$/;"	f	line:11	signature:(HANDLE handle, INT iMsgID, UINT uMsg, PVOID pMsg)
+WinDispatchMsgDef	.\GUI\Window.c	/^VOID WinDispatchMsgDef(HANDLE hWin, INT iMsgID, UINT uMsg, PVOID pMsg)$/;"	f	line:242	signature:(HANDLE hWin, INT iMsgID, UINT uMsg, PVOID pMsg)
+WinDispatchMsgEV	.\Widget\EditView.c	/^STATIC VOID WinDispatchMsgEV(HANDLE handle, INT iMsgID, UINT uMsg, PVOID pMsg)$/;"	f	line:3	signature:(HANDLE handle, INT iMsgID, UINT uMsg, PVOID pMsg)
+WinFlowMain	.\GUI\Window.c	/^VOID WinFlowMain(VOID)$/;"	f	line:591
+WinOnUsrProc	.\Test\Test.c	/^VOID WinOnUsrProc(PWindow pWin, UINT uMsg, PVOID pMsg)$/;"	f	line:374	signature:(PWindow pWin, UINT uMsg, PVOID pMsg)
+WinOnUsrProc	.\main.c	/^VOID WinOnUsrProc(PWindow pWin, UINT uMsg, PVOID pMsg)$/;"	f	line:12	signature:(PWindow pWin, UINT uMsg, PVOID pMsg)
+WindowFlow	.\AppTest\SimCalc.c	/^STATIC INT WindowFlow(PWindow pWin)$/;"	f	line:179	signature:(PWindow pWin)
+WindowFlow	.\Test\Test.c	/^INT WindowFlow(PWindow pWin)$/;"	f	line:346	signature:(PWindow pWin)
+WindowFlow	.\main.c	/^INT WindowFlow(PWindow pWin)$/;"	f	line:48	signature:(PWindow pWin)
+_Bitmap	.\Tool\BmpTool.h	/^typedef struct _Bitmap$/;"	s	line:6
+_Bitmap::m_pBmpBuf	.\Tool\BmpTool.h	/^    UINT* m_pBmpBuf;$/;"	m	line:11	struct:_Bitmap	access:public
+_Bitmap::m_uBmpHeigh	.\Tool\BmpTool.h	/^    UINT  m_uBmpHeigh;$/;"	m	line:10	struct:_Bitmap	access:public
+_Bitmap::m_uBmpType	.\Tool\BmpTool.h	/^    UINT  m_uBmpType;$/;"	m	line:8	struct:_Bitmap	access:public
+_Bitmap::m_uBmpWidth	.\Tool\BmpTool.h	/^    UINT  m_uBmpWidth;$/;"	m	line:9	struct:_Bitmap	access:public
+_Brush	.\GDI\Brush.h	/^typedef struct _Brush$/;"	s	line:6
+_Brush::m_color	.\GDI\Brush.h	/^    RGBA m_color;$/;"	m	line:8	struct:_Brush	access:public
+_Button	.\Widget\Button.h	/^typedef struct _Button$/;"	s	line:9
+_Button::m_baseWin	.\Widget\Button.h	/^	CWindow m_baseWin;$/;"	m	line:11	struct:_Button	access:public
+_Button::m_czBtnTitl	.\Widget\Button.h	/^	CHAR    m_czBtnTitl[256];$/;"	m	line:13	struct:_Button	access:public
+_Button::m_iMsgID	.\Widget\Button.h	/^	INT     m_iMsgID;$/;"	m	line:15	struct:_Button	access:public
+_Button::m_pfPrintWindow	.\Widget\Button.h	/^	PFPrintWindow m_pfPrintWindow;$/;"	m	line:27	struct:_Button	access:public
+_Button::m_pfSelWinBrush	.\Widget\Button.h	/^	PFSetWinBrush m_pfSelWinBrush;$/;"	m	line:24	struct:_Button	access:public
+_Button::m_pfSelWinFont	.\Widget\Button.h	/^	PFSetWinFont m_pfSelWinFont;$/;"	m	line:21	struct:_Button	access:public
+_Button::m_pfSelWinRect	.\Widget\Button.h	/^	PFSetWinRect m_pfSelWinRect;$/;"	m	line:18	struct:_Button	access:public
+_Button::m_pfSetTitle	.\Widget\Button.h	/^	PFSetTitle m_pfSetTitle;$/;"	m	line:30	struct:_Button	access:public
+_CalcBtn	.\AppTest\SimCalc.c	/^typedef struct _CalcBtn$/;"	s	line:5	file:
+_CalcBtn::m_czCalcBtnVal	.\AppTest\SimCalc.c	/^	CHAR  m_czCalcBtnVal[32];$/;"	m	line:7	struct:_CalcBtn	file:	access:public
+_CalcBtn::m_iCalcBtnID	.\AppTest\SimCalc.c	/^	INT   m_iCalcBtnID;$/;"	m	line:8	struct:_CalcBtn	file:	access:public
+_CalcBtn::m_iCalcBtnMsgID	.\AppTest\SimCalc.c	/^	INT   m_iCalcBtnMsgID;$/;"	m	line:9	struct:_CalcBtn	file:	access:public
+_CalcBtn::m_iCalcBtnRect	.\AppTest\SimCalc.c	/^	CRect m_iCalcBtnRect;$/;"	m	line:10	struct:_CalcBtn	file:	access:public
+_CalcBtn::m_pfOnBtnMsg	.\AppTest\SimCalc.c	/^	PVOID m_pfOnBtnMsg;$/;"	m	line:11	struct:_CalcBtn	file:	access:public
+_CalcParam	.\AppTest\CalcAlgor.h	/^typedef struct _CalcParam$/;"	s	line:30
+_CalcParam	.\AppTest\SimCalc.c	/^typedef struct _CalcParam$/;"	s	line:14	file:
+_CalcParam::data	.\AppTest\CalcAlgor.h	/^	INT data[CALC_ANALSE_CNT];$/;"	m	line:33	struct:_CalcParam	access:public
+_CalcParam::iDataCnt	.\AppTest\CalcAlgor.h	/^	INT iDataCnt;$/;"	m	line:35	struct:_CalcParam	access:public
+_CalcParam::iErr	.\AppTest\CalcAlgor.h	/^	INT iErr;$/;"	m	line:36	struct:_CalcParam	access:public
+_CalcParam::iOpCnt	.\AppTest\CalcAlgor.h	/^	INT iOpCnt;$/;"	m	line:34	struct:_CalcParam	access:public
+_CalcParam::op	.\AppTest\CalcAlgor.h	/^	INT op[CALC_ANALSE_CNT];$/;"	m	line:32	struct:_CalcParam	access:public
+_CheckBox	.\Widget\CheckBox.h	/^typedef struct _CheckBox$/;"	s	line:11
+_CheckBox::m_bCheck	.\Widget\CheckBox.h	/^	BOOL    m_bCheck;$/;"	m	line:15	struct:_CheckBox	access:public
+_CheckBox::m_baseWin	.\Widget\CheckBox.h	/^	CWindow m_baseWin;$/;"	m	line:13	struct:_CheckBox	access:public
+_CheckBox::m_czBtnTitl	.\Widget\CheckBox.h	/^	CHAR    m_czBtnTitl[256];$/;"	m	line:16	struct:_CheckBox	access:public
+_CheckBox::m_iMsgID	.\Widget\CheckBox.h	/^	INT     m_iMsgID;$/;"	m	line:18	struct:_CheckBox	access:public
+_CheckBox::m_pfIsCheck	.\Widget\CheckBox.h	/^	PFIsCheck m_pfIsCheck;$/;"	m	line:36	struct:_CheckBox	access:public
+_CheckBox::m_pfSelWinBrush	.\Widget\CheckBox.h	/^	PFSetWinBrush m_pfSelWinBrush;$/;"	m	line:27	struct:_CheckBox	access:public
+_CheckBox::m_pfSelWinFont	.\Widget\CheckBox.h	/^	PFSetWinFont m_pfSelWinFont;$/;"	m	line:24	struct:_CheckBox	access:public
+_CheckBox::m_pfSelWinRect	.\Widget\CheckBox.h	/^	PFSetWinRect m_pfSelWinRect;$/;"	m	line:21	struct:_CheckBox	access:public
+_CheckBox::m_pfSetCheck	.\Widget\CheckBox.h	/^	PFSetCheck m_pfSetCheck;$/;"	m	line:33	struct:_CheckBox	access:public
+_CheckBox::m_pfSetTitle	.\Widget\CheckBox.h	/^	PFSetTitle  m_pfSetTitle;$/;"	m	line:30	struct:_CheckBox	access:public
+_EditView	.\Widget\EditView.h	/^typedef struct _EditView$/;"	s	line:13
+_EditView::m_baseWin	.\Widget\EditView.h	/^	CWindow m_baseWin;$/;"	m	line:16	struct:_EditView	access:public
+_EditView::m_iCurEdit	.\Widget\EditView.h	/^	INT     m_iCurEdit;$/;"	m	line:22	struct:_EditView	access:public
+_EditView::m_iSelLen	.\Widget\EditView.h	/^	INT     m_iSelLen;$/;"	m	line:26	struct:_EditView	access:public
+_EditView::m_iSelStart	.\Widget\EditView.h	/^	INT     m_iSelStart;$/;"	m	line:25	struct:_EditView	access:public
+_EditView::m_pfPrintWindow	.\Widget\EditView.h	/^	PFPrintWindow m_pfPrintWindow;$/;"	m	line:41	struct:_EditView	access:public
+_EditView::m_pfSelWinBrush	.\Widget\EditView.h	/^	PFSetWinBrush m_pfSelWinBrush;$/;"	m	line:38	struct:_EditView	access:public
+_EditView::m_pfSelWinFont	.\Widget\EditView.h	/^	PFSetWinFont m_pfSelWinFont;$/;"	m	line:35	struct:_EditView	access:public
+_EditView::m_pfSelWinRect	.\Widget\EditView.h	/^	PFSetWinRect m_pfSelWinRect;$/;"	m	line:32	struct:_EditView	access:public
+_EditView::m_pfSetCurEdit	.\Widget\EditView.h	/^	PFSetCurEdit m_pfSetCurEdit;$/;"	m	line:43	struct:_EditView	access:public
+_EditView::m_pfSetSel	.\Widget\EditView.h	/^	PFSetSel     m_pfSetSel;$/;"	m	line:45	struct:_EditView	access:public
+_EditView::m_pfSetText	.\Widget\EditView.h	/^	PFSetText m_pfSetText;$/;"	m	line:29	struct:_EditView	access:public
+_EditView::m_string	.\Widget\EditView.h	/^	CString m_string;$/;"	m	line:19	struct:_EditView	access:public
+_Font	.\GDI\Font.h	/^typedef struct _Font$/;"	s	line:6
+_Font::m_color	.\GDI\Font.h	/^    RGBA m_color;$/;"	m	line:8	struct:_Font	access:public
+_List	.\Tool\List.h	/^typedef struct _List$/;"	s	line:13
+_List::m_iListSize	.\Tool\List.h	/^    INT       m_iListSize;$/;"	m	line:17	struct:_List	access:public
+_List::m_pListEnd	.\Tool\List.h	/^    PListNode m_pListEnd;$/;"	m	line:16	struct:_List	access:public
+_List::m_pListHead	.\Tool\List.h	/^    PListNode m_pListHead;$/;"	m	line:15	struct:_List	access:public
+_ListNode	.\Tool\List.h	/^typedef struct _ListNode$/;"	s	line:6
+_ListNode::m_pData	.\Tool\List.h	/^    PVOID m_pData;$/;"	m	line:8	struct:_ListNode	access:public
+_ListNode::m_pLastNode	.\Tool\List.h	/^    PVOID m_pLastNode;$/;"	m	line:10	struct:_ListNode	access:public
+_ListNode::m_pNextNode	.\Tool\List.h	/^    PVOID m_pNextNode;$/;"	m	line:9	struct:_ListNode	access:public
+_MemoryBlock	.\Tool\Malloc.h	/^typedef struct _MemoryBlock$/;"	s	line:7
+_MemoryBlock::pMemBlkNext	.\Tool\Malloc.h	/^	VOID* pMemBlkNext;$/;"	m	line:12	struct:_MemoryBlock	access:public
+_MemoryBlock::uAllSize	.\Tool\Malloc.h	/^	UINT uAllSize;$/;"	m	line:11	struct:_MemoryBlock	access:public
+_MemoryBlock::uUseSize	.\Tool\Malloc.h	/^	UINT uUseSize;$/;"	m	line:10	struct:_MemoryBlock	access:public
+_Msg	.\GUI\WinMsg.h	/^typedef struct _Msg$/;"	s	line:8
+_Msg::m_iMsgID	.\GUI\WinMsg.h	/^    INT     m_iMsgID;$/;"	m	line:10	struct:_Msg	access:public
+_Msg::m_pDstWin	.\GUI\WinMsg.h	/^    PWindow m_pDstWin;$/;"	m	line:13	struct:_Msg	access:public
+_Msg::m_pMsg	.\GUI\WinMsg.h	/^    PVOID   m_pMsg;$/;"	m	line:12	struct:_Msg	access:public
+_Msg::m_uMsg	.\GUI\WinMsg.h	/^    UINT    m_uMsg;$/;"	m	line:11	struct:_Msg	access:public
+_OnMsg	.\Msg\OnMsgProcList.h	/^typedef struct _OnMsg$/;"	s	line:6
+_OnMsg::m_iMsgID	.\Msg\OnMsgProcList.h	/^    INT m_iMsgID;$/;"	m	line:8	struct:_OnMsg	access:public
+_OnMsgProc	.\GUI\OnWinMsgProcList.h	/^typedef struct _OnMsgProc$/;"	s	line:15
+_OnMsgProc::m_iMsgID	.\GUI\OnWinMsgProcList.h	/^    INT    m_iMsgID;$/;"	m	line:18	struct:_OnMsgProc	access:public
+_OnMsgProc::m_iOnMsgType	.\GUI\OnWinMsgProcList.h	/^    INT    m_iOnMsgType;$/;"	m	line:17	struct:_OnMsgProc	access:public
+_OnMsgProc::m_pfOnMsgProc	.\GUI\OnWinMsgProcList.h	/^    PVOID  m_pfOnMsgProc;$/;"	m	line:19	struct:_OnMsgProc	access:public
+_Point	.\GDI\GdiCom.h	/^typedef struct _Point$/;"	s	line:7
+_Point::m_iX	.\GDI\GdiCom.h	/^    INT m_iX;$/;"	m	line:9	struct:_Point	access:public
+_Point::m_iY	.\GDI\GdiCom.h	/^    INT m_iY;$/;"	m	line:10	struct:_Point	access:public
+_Rect	.\GDI\GdiCom.h	/^typedef struct _Rect$/;"	s	line:13
+_Rect::m_iHeigh	.\GDI\GdiCom.h	/^    INT m_iHeigh;$/;"	m	line:18	struct:_Rect	access:public
+_Rect::m_iLeft	.\GDI\GdiCom.h	/^    INT m_iLeft;$/;"	m	line:15	struct:_Rect	access:public
+_Rect::m_iTop	.\GDI\GdiCom.h	/^    INT m_iTop;$/;"	m	line:16	struct:_Rect	access:public
+_Rect::m_iWidth	.\GDI\GdiCom.h	/^    INT m_iWidth;$/;"	m	line:17	struct:_Rect	access:public
+_String	.\Tool\SimString.h	/^typedef struct _String$/;"	s	line:18
+_String::m_iSize	.\Tool\SimString.h	/^	INT   m_iSize;$/;"	m	line:22	struct:_String	access:public
+_String::m_iValLen	.\Tool\SimString.h	/^	INT   m_iValLen;$/;"	m	line:21	struct:_String	access:public
+_String::m_pcVal	.\Tool\SimString.h	/^	CHAR* m_pcVal;$/;"	m	line:20	struct:_String	access:public
+_String::m_pfAppend	.\Tool\SimString.h	/^	PFAppend  m_pfAppend;$/;"	m	line:25	struct:_String	access:public
+_String::m_pfCleanString	.\Tool\SimString.h	/^	PFCleanString  m_pfCleanString;$/;"	m	line:32	struct:_String	access:public
+_String::m_pfGetChar	.\Tool\SimString.h	/^	PFGetChar m_pfGetChar;$/;"	m	line:26	struct:_String	access:public
+_String::m_pfInsert	.\Tool\SimString.h	/^	PFInsert  m_pfInsert;$/;"	m	line:27	struct:_String	access:public
+_String::m_pfInsertString	.\Tool\SimString.h	/^	PFInsertString m_pfInsertString;$/;"	m	line:30	struct:_String	access:public
+_String::m_pfRemove	.\Tool\SimString.h	/^	PFRemove  m_pfRemove;$/;"	m	line:28	struct:_String	access:public
+_String::m_pfRemoveFromCnt	.\Tool\SimString.h	/^	PFRemoveFromTo m_pfRemoveFromCnt;$/;"	m	line:31	struct:_String	access:public
+_String::m_pfRemoveLast	.\Tool\SimString.h	/^	PFRemoveLast   m_pfRemoveLast;$/;"	m	line:33	struct:_String	access:public
+_String::m_pfSetText	.\Tool\SimString.h	/^	PFSetText m_pfSetText;$/;"	m	line:24	struct:_String	access:public
+_Window	.\GUI\WinType.h	/^typedef struct _Window$/;"	s	line:27
+_Window::m_brush	.\GUI\WinType.h	/^    CBrush  m_brush;$/;"	m	line:49	struct:_Window	access:public
+_Window::m_font	.\GUI\WinType.h	/^    CFont   m_font;$/;"	m	line:46	struct:_Window	access:public
+_Window::m_iID	.\GUI\WinType.h	/^    INT m_iID;$/;"	m	line:37	struct:_Window	access:public
+_Window::m_iWinFlag	.\GUI\WinType.h	/^    UINT m_iWinFlag;$/;"	m	line:55	struct:_Window	access:public
+_Window::m_iWinType	.\GUI\WinType.h	/^    INT m_iWinType;$/;"	m	line:52	struct:_Window	access:public
+_Window::m_onMsgProcList	.\GUI\WinType.h	/^    CList m_onMsgProcList;$/;"	m	line:58	struct:_Window	access:public
+_Window::m_pFirstSon	.\GUI\WinType.h	/^    struct _Window* m_pFirstSon;$/;"	m	line:31	struct:_Window	typeref:struct:_Window::_Window	access:public
+_Window::m_pLast	.\GUI\WinType.h	/^    struct _Window* m_pLast;$/;"	m	line:33	struct:_Window	typeref:struct:_Window::_Window	access:public
+_Window::m_pLastSon	.\GUI\WinType.h	/^    struct _Window* m_pLastSon;$/;"	m	line:32	struct:_Window	typeref:struct:_Window::_Window	access:public
+_Window::m_pNext	.\GUI\WinType.h	/^    struct _Window* m_pNext;$/;"	m	line:34	struct:_Window	typeref:struct:_Window::_Window	access:public
+_Window::m_pParent	.\GUI\WinType.h	/^    struct _Window* m_pParent;$/;"	m	line:30	struct:_Window	typeref:struct:_Window::_Window	access:public
+_Window::m_pfFindItemById	.\GUI\WinType.h	/^	PFFindItemById m_pfFindItemById;$/;"	m	line:91	struct:_Window	access:public
+_Window::m_pfInitWindow	.\GUI\WinType.h	/^    PFInitWindow m_pfInitWindow;$/;"	m	line:76	struct:_Window	access:public
+_Window::m_pfPostMessage	.\GUI\WinType.h	/^    PFPostMessage m_pfPostMessage;$/;"	m	line:64	struct:_Window	access:public
+_Window::m_pfPrintWindow	.\GUI\WinType.h	/^	PFPrintWindow m_pfPrintWindow;$/;"	m	line:88	struct:_Window	access:public
+_Window::m_pfRegisterOnMsgProc	.\GUI\WinType.h	/^    PFRegisterOnMsgProc m_pfRegisterOnMsgProc;$/;"	m	line:70	struct:_Window	access:public
+_Window::m_pfSelWinBrush	.\GUI\WinType.h	/^    PFSetWinBrush m_pfSelWinBrush;$/;"	m	line:85	struct:_Window	access:public
+_Window::m_pfSelWinFont	.\GUI\WinType.h	/^    PFSetWinFont m_pfSelWinFont;$/;"	m	line:82	struct:_Window	access:public
+_Window::m_pfSelWinRect	.\GUI\WinType.h	/^    PFSetWinRect m_pfSelWinRect;$/;"	m	line:79	struct:_Window	access:public
+_Window::m_pfSendMessage	.\GUI\WinType.h	/^    PFSendMessage m_pfSendMessage;$/;"	m	line:67	struct:_Window	access:public
+_Window::m_pfUnregisterOnMsgProc	.\GUI\WinType.h	/^    PFUnregisterOnMsgProc m_pfUnregisterOnMsgProc;$/;"	m	line:73	struct:_Window	access:public
+_Window::m_pfWinDispatchMsg	.\GUI\WinType.h	/^    PFWinDispatchMsg m_pfWinDispatchMsg;$/;"	m	line:61	struct:_Window	access:public
+_Window::m_rect	.\GUI\WinType.h	/^    CRect m_rect;$/;"	m	line:40	struct:_Window	access:public
+_Window::m_showRect	.\GUI\WinType.h	/^    CRect m_showRect;$/;"	m	line:43	struct:_Window	access:public
+__BMP_TOOL_H__	.\Tool\BmpTool.h	2;"	d	line:2
+__BRUSH_H__	.\GDI\Brush.h	2;"	d	line:2
+__BUTTON_H__	.\Widget\Button.h	2;"	d	line:2
+__CALC_ALGORITHM_H__	.\AppTest\CalcAlgor.h	2;"	d	line:2
+__CHECK_BOX_H__	.\Widget\CheckBox.h	2;"	d	line:2
+__COLOR_H__	.\Adapt\Color.h	2;"	d	line:2
+__COLOR_H__	.\Adapt\Color_BK.h	2;"	d	line:2
+__COMMON_H__	.\Comm\Common.h	2;"	d	line:2
+__DRAW_BMP_H__	.\GDI\DrawBmp.h	2;"	d	line:2
+__DRAW_LINE_H__	.\GDI\DrawLine.h	2;"	d	line:2
+__DRAW_OVAL_H__	.\GDI\DrawOval.h	2;"	d	line:2
+__DRAW_RECT_H__	.\GDI\DrawRect.h	2;"	d	line:2
+__EDIT_VIEW_H__	.\Widget\EditView.h	2;"	d	line:2
+__FONT_H__	.\GDI\Font.h	2;"	d	line:2
+__GDI_COM_H__	.\GDI\GdiCom.h	2;"	d	line:2
+__GDI_H__	.\GDI\GDI.h	2;"	d	line:2
+__GUI_CFG_H__	.\CFG\guicfg.h	2;"	d	line:2
+__KEY_H__	.\GUI\Key.h	2;"	d	line:2
+__LIST_H__	.\Tool\List.h	2;"	d	line:2
+__LOAD_WIN_RES_H__	.\Tool\LoadWinRes.h	2;"	d	line:2
+__LOG_H__	.\Tool\Log.h	2;"	d	line:2
+__MALLOC_H__	.\Tool\Malloc.h	2;"	d	line:2
+__MATH_H__	.\Tool\smath.h	2;"	d	line:2
+__MEM_H__	.\Tool\Mem.h	2;"	d	line:2
+__ON_MSG_PROC_LIST_H__	.\Msg\OnMsgProcList.h	2;"	d	line:2
+__ON_WIN_MSG_PROC_LIST_H__	.\GUI\OnWinMsgProcList.h	2;"	d	line:2
+__RES_H__	.\GDI\res\Res.h	2;"	d	line:2
+__RND_GEN_H__	.\Tool\RndGen.h	2;"	d	line:2
+__SCREEN_H__	.\Adapt\Screen.h	2;"	d	line:2
+__SIMPLE_STRING_H__	.\Tool\SimString.h	2;"	d	line:2
+__SIM_CALC_H__	.\AppTest\SimCalc.h	2;"	d	line:2
+__TEXT_OUT_H__	.\GDI\TextOut.h	2;"	d	line:2
+__TOOL_H__	.\Tool\Tool.h	2;"	d	line:2
+__TYPE_H__	.\Comm\Type.h	2;"	d	line:2
+__WIDGET_H__	.\Widget\Widget.h	2;"	d	line:2
+__WINDOW_BASE_H__	.\GUI\WinBase.h	2;"	d	line:2
+__WINDOW_H__	.\GUI\Window.h	2;"	d	line:2
+__WIN_ERR_H__	.\GUI\WinErr.h	2;"	d	line:2
+__WIN_MSG_H__	.\GUI\WinMsg.h	2;"	d	line:2
+__WIN_TYPE_H__	.\GUI\WinType.h	2;"	d	line:2
+bzHeapBuf	.\Tool\Malloc.c	/^static UCHAR bzHeapBuf[MAX_HEAP_SIZE];$/;"	v	line:18	file:
+calcBtnCfg	.\AppTest\SimCalc.c	/^CcalcBtn calcBtnCfg[30] = $/;"	v	line:151
+data	.\AppTest\CalcAlgor.h	/^	INT data[CALC_ANALSE_CNT];$/;"	m	line:33	struct:_CalcParam	access:public
+exit	.\Tool\Tool.h	12;"	d	line:12
+gWinErr	.\GUI\Window.c	/^INT gWinErr = 0;$/;"	v	line:14
+guczAsc8x16Fonts	.\GDI\res\Res.c	/^const unsigned char guczAsc8x16Fonts[] __attribute__ ((aligned(4))) __attribute__((used)) =$/;"	v	line:4
+iA	.\Tool\RndGen.c	/^STATIC INT iA = 3;$/;"	v	line:4
+iB	.\Tool\RndGen.c	/^STATIC INT iB = 17;$/;"	v	line:5
+iC	.\Tool\RndGen.c	/^STATIC INT iC = 13;$/;"	v	line:6
+iDataCnt	.\AppTest\CalcAlgor.h	/^	INT iDataCnt;$/;"	m	line:35	struct:_CalcParam	access:public
+iDragWinCutX	.\GUI\WinBase.c	/^STATIC INT iDragWinCutX;$/;"	v	line:156
+iDragWinCutY	.\GUI\WinBase.c	/^STATIC INT iDragWinCutY;$/;"	v	line:157
+iErr	.\AppTest\CalcAlgor.h	/^	INT iErr;$/;"	m	line:36	struct:_CalcParam	access:public
+iM	.\Tool\RndGen.c	/^STATIC INT iM = 100000000;$/;"	v	line:7
+iOpCnt	.\AppTest\CalcAlgor.h	/^	INT iOpCnt;$/;"	m	line:34	struct:_CalcParam	access:public
+iRndRoot	.\Tool\RndGen.c	/^STATIC INT iRndRoot = 0;$/;"	v	line:3
+icnt	.\GUI\WinTree.c	/^int icnt = 0;$/;"	v	line:294
+m_bCheck	.\Widget\CheckBox.h	/^	BOOL    m_bCheck;$/;"	m	line:15	struct:_CheckBox	access:public
+m_baseWin	.\Widget\Button.h	/^	CWindow m_baseWin;$/;"	m	line:11	struct:_Button	access:public
+m_baseWin	.\Widget\CheckBox.h	/^	CWindow m_baseWin;$/;"	m	line:13	struct:_CheckBox	access:public
+m_baseWin	.\Widget\EditView.h	/^	CWindow m_baseWin;$/;"	m	line:16	struct:_EditView	access:public
+m_brush	.\GUI\WinType.h	/^    CBrush  m_brush;$/;"	m	line:49	struct:_Window	access:public
+m_color	.\GDI\Brush.h	/^    RGBA m_color;$/;"	m	line:8	struct:_Brush	access:public
+m_color	.\GDI\Font.h	/^    RGBA m_color;$/;"	m	line:8	struct:_Font	access:public
+m_czBtnTitl	.\Widget\Button.h	/^	CHAR    m_czBtnTitl[256];$/;"	m	line:13	struct:_Button	access:public
+m_czBtnTitl	.\Widget\CheckBox.h	/^	CHAR    m_czBtnTitl[256];$/;"	m	line:16	struct:_CheckBox	access:public
+m_czCalcBtnVal	.\AppTest\SimCalc.c	/^	CHAR  m_czCalcBtnVal[32];$/;"	m	line:7	struct:_CalcBtn	file:	access:public
+m_font	.\GUI\WinType.h	/^    CFont   m_font;$/;"	m	line:46	struct:_Window	access:public
+m_iCalcBtnID	.\AppTest\SimCalc.c	/^	INT   m_iCalcBtnID;$/;"	m	line:8	struct:_CalcBtn	file:	access:public
+m_iCalcBtnMsgID	.\AppTest\SimCalc.c	/^	INT   m_iCalcBtnMsgID;$/;"	m	line:9	struct:_CalcBtn	file:	access:public
+m_iCalcBtnRect	.\AppTest\SimCalc.c	/^	CRect m_iCalcBtnRect;$/;"	m	line:10	struct:_CalcBtn	file:	access:public
+m_iCurEdit	.\Widget\EditView.h	/^	INT     m_iCurEdit;$/;"	m	line:22	struct:_EditView	access:public
+m_iHeigh	.\GDI\GdiCom.h	/^    INT m_iHeigh;$/;"	m	line:18	struct:_Rect	access:public
+m_iID	.\GUI\WinType.h	/^    INT m_iID;$/;"	m	line:37	struct:_Window	access:public
+m_iLeft	.\GDI\GdiCom.h	/^    INT m_iLeft;$/;"	m	line:15	struct:_Rect	access:public
+m_iListSize	.\Tool\List.h	/^    INT       m_iListSize;$/;"	m	line:17	struct:_List	access:public
+m_iMsgID	.\GUI\OnWinMsgProcList.h	/^    INT    m_iMsgID;$/;"	m	line:18	struct:_OnMsgProc	access:public
+m_iMsgID	.\GUI\WinMsg.h	/^    INT     m_iMsgID;$/;"	m	line:10	struct:_Msg	access:public
+m_iMsgID	.\Msg\OnMsgProcList.h	/^    INT m_iMsgID;$/;"	m	line:8	struct:_OnMsg	access:public
+m_iMsgID	.\Widget\Button.h	/^	INT     m_iMsgID;$/;"	m	line:15	struct:_Button	access:public
+m_iMsgID	.\Widget\CheckBox.h	/^	INT     m_iMsgID;$/;"	m	line:18	struct:_CheckBox	access:public
+m_iOnMsgType	.\GUI\OnWinMsgProcList.h	/^    INT    m_iOnMsgType;$/;"	m	line:17	struct:_OnMsgProc	access:public
+m_iSelLen	.\Widget\EditView.h	/^	INT     m_iSelLen;$/;"	m	line:26	struct:_EditView	access:public
+m_iSelStart	.\Widget\EditView.h	/^	INT     m_iSelStart;$/;"	m	line:25	struct:_EditView	access:public
+m_iSize	.\Tool\SimString.h	/^	INT   m_iSize;$/;"	m	line:22	struct:_String	access:public
+m_iTop	.\GDI\GdiCom.h	/^    INT m_iTop;$/;"	m	line:16	struct:_Rect	access:public
+m_iValLen	.\Tool\SimString.h	/^	INT   m_iValLen;$/;"	m	line:21	struct:_String	access:public
+m_iWidth	.\GDI\GdiCom.h	/^    INT m_iWidth;$/;"	m	line:17	struct:_Rect	access:public
+m_iWinFlag	.\GUI\WinType.h	/^    UINT m_iWinFlag;$/;"	m	line:55	struct:_Window	access:public
+m_iWinType	.\GUI\WinType.h	/^    INT m_iWinType;$/;"	m	line:52	struct:_Window	access:public
+m_iX	.\GDI\GdiCom.h	/^    INT m_iX;$/;"	m	line:9	struct:_Point	access:public
+m_iY	.\GDI\GdiCom.h	/^    INT m_iY;$/;"	m	line:10	struct:_Point	access:public
+m_onMsgProcList	.\GUI\WinType.h	/^    CList m_onMsgProcList;$/;"	m	line:58	struct:_Window	access:public
+m_pBmpBuf	.\Tool\BmpTool.h	/^    UINT* m_pBmpBuf;$/;"	m	line:11	struct:_Bitmap	access:public
+m_pData	.\Tool\List.h	/^    PVOID m_pData;$/;"	m	line:8	struct:_ListNode	access:public
+m_pDstWin	.\GUI\WinMsg.h	/^    PWindow m_pDstWin;$/;"	m	line:13	struct:_Msg	access:public
+m_pFirstSon	.\GUI\WinType.h	/^    struct _Window* m_pFirstSon;$/;"	m	line:31	struct:_Window	typeref:struct:_Window::_Window	access:public
+m_pLast	.\GUI\WinType.h	/^    struct _Window* m_pLast;$/;"	m	line:33	struct:_Window	typeref:struct:_Window::_Window	access:public
+m_pLastNode	.\Tool\List.h	/^    PVOID m_pLastNode;$/;"	m	line:10	struct:_ListNode	access:public
+m_pLastSon	.\GUI\WinType.h	/^    struct _Window* m_pLastSon;$/;"	m	line:32	struct:_Window	typeref:struct:_Window::_Window	access:public
+m_pListEnd	.\Tool\List.h	/^    PListNode m_pListEnd;$/;"	m	line:16	struct:_List	access:public
+m_pListHead	.\Tool\List.h	/^    PListNode m_pListHead;$/;"	m	line:15	struct:_List	access:public
+m_pMsg	.\GUI\WinMsg.h	/^    PVOID   m_pMsg;$/;"	m	line:12	struct:_Msg	access:public
+m_pNext	.\GUI\WinType.h	/^    struct _Window* m_pNext;$/;"	m	line:34	struct:_Window	typeref:struct:_Window::_Window	access:public
+m_pNextNode	.\Tool\List.h	/^    PVOID m_pNextNode;$/;"	m	line:9	struct:_ListNode	access:public
+m_pParent	.\GUI\WinType.h	/^    struct _Window* m_pParent;$/;"	m	line:30	struct:_Window	typeref:struct:_Window::_Window	access:public
+m_pcVal	.\Tool\SimString.h	/^	CHAR* m_pcVal;$/;"	m	line:20	struct:_String	access:public
+m_pfAppend	.\Tool\SimString.h	/^	PFAppend  m_pfAppend;$/;"	m	line:25	struct:_String	access:public
+m_pfCleanString	.\Tool\SimString.h	/^	PFCleanString  m_pfCleanString;$/;"	m	line:32	struct:_String	access:public
+m_pfFindItemById	.\GUI\WinType.h	/^	PFFindItemById m_pfFindItemById;$/;"	m	line:91	struct:_Window	access:public
+m_pfGetChar	.\Tool\SimString.h	/^	PFGetChar m_pfGetChar;$/;"	m	line:26	struct:_String	access:public
+m_pfInitWindow	.\GUI\WinType.h	/^    PFInitWindow m_pfInitWindow;$/;"	m	line:76	struct:_Window	access:public
+m_pfInsert	.\Tool\SimString.h	/^	PFInsert  m_pfInsert;$/;"	m	line:27	struct:_String	access:public
+m_pfInsertString	.\Tool\SimString.h	/^	PFInsertString m_pfInsertString;$/;"	m	line:30	struct:_String	access:public
+m_pfIsCheck	.\Widget\CheckBox.h	/^	PFIsCheck m_pfIsCheck;$/;"	m	line:36	struct:_CheckBox	access:public
+m_pfOnBtnMsg	.\AppTest\SimCalc.c	/^	PVOID m_pfOnBtnMsg;$/;"	m	line:11	struct:_CalcBtn	file:	access:public
+m_pfOnMsgProc	.\GUI\OnWinMsgProcList.h	/^    PVOID  m_pfOnMsgProc;$/;"	m	line:19	struct:_OnMsgProc	access:public
+m_pfPostMessage	.\GUI\WinType.h	/^    PFPostMessage m_pfPostMessage;$/;"	m	line:64	struct:_Window	access:public
+m_pfPrintWindow	.\GUI\WinType.h	/^	PFPrintWindow m_pfPrintWindow;$/;"	m	line:88	struct:_Window	access:public
+m_pfPrintWindow	.\Widget\Button.h	/^	PFPrintWindow m_pfPrintWindow;$/;"	m	line:27	struct:_Button	access:public
+m_pfPrintWindow	.\Widget\EditView.h	/^	PFPrintWindow m_pfPrintWindow;$/;"	m	line:41	struct:_EditView	access:public
+m_pfRegisterOnMsgProc	.\GUI\WinType.h	/^    PFRegisterOnMsgProc m_pfRegisterOnMsgProc;$/;"	m	line:70	struct:_Window	access:public
+m_pfRemove	.\Tool\SimString.h	/^	PFRemove  m_pfRemove;$/;"	m	line:28	struct:_String	access:public
+m_pfRemoveFromCnt	.\Tool\SimString.h	/^	PFRemoveFromTo m_pfRemoveFromCnt;$/;"	m	line:31	struct:_String	access:public
+m_pfRemoveLast	.\Tool\SimString.h	/^	PFRemoveLast   m_pfRemoveLast;$/;"	m	line:33	struct:_String	access:public
+m_pfSelWinBrush	.\GUI\WinType.h	/^    PFSetWinBrush m_pfSelWinBrush;$/;"	m	line:85	struct:_Window	access:public
+m_pfSelWinBrush	.\Widget\Button.h	/^	PFSetWinBrush m_pfSelWinBrush;$/;"	m	line:24	struct:_Button	access:public
+m_pfSelWinBrush	.\Widget\CheckBox.h	/^	PFSetWinBrush m_pfSelWinBrush;$/;"	m	line:27	struct:_CheckBox	access:public
+m_pfSelWinBrush	.\Widget\EditView.h	/^	PFSetWinBrush m_pfSelWinBrush;$/;"	m	line:38	struct:_EditView	access:public
+m_pfSelWinFont	.\GUI\WinType.h	/^    PFSetWinFont m_pfSelWinFont;$/;"	m	line:82	struct:_Window	access:public
+m_pfSelWinFont	.\Widget\Button.h	/^	PFSetWinFont m_pfSelWinFont;$/;"	m	line:21	struct:_Button	access:public
+m_pfSelWinFont	.\Widget\CheckBox.h	/^	PFSetWinFont m_pfSelWinFont;$/;"	m	line:24	struct:_CheckBox	access:public
+m_pfSelWinFont	.\Widget\EditView.h	/^	PFSetWinFont m_pfSelWinFont;$/;"	m	line:35	struct:_EditView	access:public
+m_pfSelWinRect	.\GUI\WinType.h	/^    PFSetWinRect m_pfSelWinRect;$/;"	m	line:79	struct:_Window	access:public
+m_pfSelWinRect	.\Widget\Button.h	/^	PFSetWinRect m_pfSelWinRect;$/;"	m	line:18	struct:_Button	access:public
+m_pfSelWinRect	.\Widget\CheckBox.h	/^	PFSetWinRect m_pfSelWinRect;$/;"	m	line:21	struct:_CheckBox	access:public
+m_pfSelWinRect	.\Widget\EditView.h	/^	PFSetWinRect m_pfSelWinRect;$/;"	m	line:32	struct:_EditView	access:public
+m_pfSendMessage	.\GUI\WinType.h	/^    PFSendMessage m_pfSendMessage;$/;"	m	line:67	struct:_Window	access:public
+m_pfSetCheck	.\Widget\CheckBox.h	/^	PFSetCheck m_pfSetCheck;$/;"	m	line:33	struct:_CheckBox	access:public
+m_pfSetCurEdit	.\Widget\EditView.h	/^	PFSetCurEdit m_pfSetCurEdit;$/;"	m	line:43	struct:_EditView	access:public
+m_pfSetSel	.\Widget\EditView.h	/^	PFSetSel     m_pfSetSel;$/;"	m	line:45	struct:_EditView	access:public
+m_pfSetText	.\Tool\SimString.h	/^	PFSetText m_pfSetText;$/;"	m	line:24	struct:_String	access:public
+m_pfSetText	.\Widget\EditView.h	/^	PFSetText m_pfSetText;$/;"	m	line:29	struct:_EditView	access:public
+m_pfSetTitle	.\Widget\Button.h	/^	PFSetTitle m_pfSetTitle;$/;"	m	line:30	struct:_Button	access:public
+m_pfSetTitle	.\Widget\CheckBox.h	/^	PFSetTitle  m_pfSetTitle;$/;"	m	line:30	struct:_CheckBox	access:public
+m_pfUnregisterOnMsgProc	.\GUI\WinType.h	/^    PFUnregisterOnMsgProc m_pfUnregisterOnMsgProc;$/;"	m	line:73	struct:_Window	access:public
+m_pfWinDispatchMsg	.\GUI\WinType.h	/^    PFWinDispatchMsg m_pfWinDispatchMsg;$/;"	m	line:61	struct:_Window	access:public
+m_rect	.\GUI\WinType.h	/^    CRect m_rect;$/;"	m	line:40	struct:_Window	access:public
+m_showRect	.\GUI\WinType.h	/^    CRect m_showRect;$/;"	m	line:43	struct:_Window	access:public
+m_string	.\Widget\EditView.h	/^	CString m_string;$/;"	m	line:19	struct:_EditView	access:public
+m_uBmpHeigh	.\Tool\BmpTool.h	/^    UINT  m_uBmpHeigh;$/;"	m	line:10	struct:_Bitmap	access:public
+m_uBmpType	.\Tool\BmpTool.h	/^    UINT  m_uBmpType;$/;"	m	line:8	struct:_Bitmap	access:public
+m_uBmpWidth	.\Tool\BmpTool.h	/^    UINT  m_uBmpWidth;$/;"	m	line:9	struct:_Bitmap	access:public
+m_uMsg	.\GUI\WinMsg.h	/^    UINT    m_uMsg;$/;"	m	line:11	struct:_Msg	access:public
+main	.\main.c	/^void main(void)$/;"	f	line:197	signature:(void)
+op	.\AppTest\CalcAlgor.h	/^	INT op[CALC_ANALSE_CNT];$/;"	m	line:32	struct:_CalcParam	access:public
+pMemBlk	.\Tool\Malloc.c	/^static PMemBlk pMemBlk = NULL;$/;"	v	line:19	file:
+pMemBlkNext	.\Tool\Malloc.h	/^	VOID* pMemBlkNext;$/;"	m	line:12	struct:_MemoryBlock	access:public
+pWinMsgList	.\GUI\Window.c	/^PList pWinMsgList = &winMsgList;$/;"	v	line:96
+pWinRoot	.\GUI\Window.c	/^PWindow pWinRoot = &winRoot;$/;"	v	line:90
+strCalc	.\AppTest\SimCalc.c	/^CString strCalc;$/;"	v	line:19
+test	.\Tool\Malloc.c	/^void test(void)$/;"	f	line:287	signature:(void)
+uAllSize	.\Tool\Malloc.h	/^	UINT uAllSize;$/;"	m	line:11	struct:_MemoryBlock	access:public
+uUseSize	.\Tool\Malloc.h	/^	UINT uUseSize;$/;"	m	line:10	struct:_MemoryBlock	access:public
+winMsgList	.\GUI\Window.c	/^CList   winMsgList = {$/;"	v	line:91
+winRoot	.\GUI\Window.c	/^STATIC CWindow winRoot = {  NULL, \/\/parent$/;"	v	line:16
+windowIDCnt	.\GUI\WinTree.c	/^STATIC INT windowIDCnt = 1;$/;"	v	line:15
